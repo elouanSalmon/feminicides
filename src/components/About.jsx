@@ -16,8 +16,13 @@ const About = () => {
           <Typography variant="body1" paragraph>
             Ce projet vise à documenter et à sensibiliser sur les féminicides en France. 
             Chaque point sur la carte représente une vie perdue, une histoire qui mérite d'être 
-            racontée et rappelée. Notre objectif est de donner une visibilité à ces tragédies 
-            pour contribuer à la prévention de la violence contre les femmes.
+            racontée et rappelée. Les féminicides touchent toutes les tranches d'âges et concernent 
+            l'ensemble du territoire. Notre objectif est de donner une visibilité à ces tragédies 
+            pour contribuer à la prévention de la violence contre les femmes. 
+            Pour en savoir plus, rendez-vous sur{' '}
+            <Link href="https://www.noustous.org" target="_blank" rel="noopener noreferrer">
+              nous tous
+            </Link>.
           </Typography>
         </Box>
 
@@ -40,7 +45,7 @@ const About = () => {
           <Typography variant="body1" paragraph>
             La carte interactive permet de visualiser la répartition géographique des féminicides. 
             Vous pouvez cliquer sur les marqueurs pour obtenir plus d'informations sur chaque cas. 
-            La section statistiques fournit une analyse des données par région et par âge pour 
+            La section statistiques fournit une analyse des données dans le temps pour 
             mieux comprendre ce phénomène.
           </Typography>
         </Box>
