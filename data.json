@@ -1,0 +1,2677 @@
+[
+  {
+    "date": "01/01/2025",
+    "name": "Isabelle",
+    "city": "Haumont",
+    "link": "<a href=\"https://www.ouest-france.fr/societe/faits-divers/nord-une-femme-tuee-dans-la-nuit-du-nouvel-an-son-conjoint-en-garde-a-vue-232447ce-c82f-11ef-892d-e6c5d734e1e4\">Ouest France</a>",
+    "lat": 48.4436803,
+    "lng": -2.3420578,
+    "age": "51"
+  },
+  {
+    "date": "02/01/2025",
+    "name": "Une femme",
+    "city": "Oyonnax",
+    "link": "<a href=\"https://www.ouest-france.fr/societe/faits-divers/dans-lain-un-homme-tue-sa-mere-et-se-donne-la-mort-dans-sa-chambre-dehpad-d527707c-c9b5-11ef-ae13-2f9181d4848b\">Ouest France</a>",
+    "lat": 46.2575174,
+    "lng": 5.6556181,
+    "age": "78"
+  },
+  {
+    "date": "04/01/2025",
+    "name": "Une femme",
+    "city": "Yate",
+    "link": "<a href=\"https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/yate/un-mari-tue-sa-femme-d-un-coup-de-couteau-a-yate-1551046.html\">France TV Info</a>",
+    "lat": -22.1593698,
+    "lng": 166.9442699,
+    "age": "54"
+  },
+  {
+    "date": "08/01/2025",
+    "name": "Sandy",
+    "city": "Bretigny-sur-Orge",
+    "link": "<a href=\"https://www.ouest-france.fr/faits-divers/feminicide/feminicide-dans-lessonne-une-femme-retrouvee-morte-a-son-domicile-son-compagnon-en-garde-a-vue-3d19148c-cd9f-11ef-8d90-909e2a097509\">Ouest France</a>",
+    "lat": 48.6099887,
+    "lng": 2.3075288,
+    "age": "34"
+  },
+  {
+    "date": "09/01/2025",
+    "name": "Nasrine",
+    "city": "Cenon",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/une-femme-de-41-ans-meurt-egorgee-par-son-mari-a-cenon-l-individu-est-en-garde-a-vue-1717384\">France Bleu</a>",
+    "lat": 44.8552882,
+    "lng": -0.5239863,
+    "age": "41"
+  },
+  {
+    "date": "15/01/2025",
+    "name": "Sonia",
+    "city": "Laon",
+    "link": "<a href=\"https://www.picardieweb.com/feminicide-a-laon-un-ancien-couple-au-coeur-dun-drame-tragique/\">Picardie Web</a>",
+    "lat": 49.564665,
+    "lng": 3.620686,
+    "age": "52"
+  },
+  {
+    "date": "16/01/2025",
+    "name": "Une femme",
+    "city": "Pujaut",
+    "link": "<a href=\"https://actu.fr/occitanie/pujaut_30209/matricide-dans-le-gard-le-fils-d-une-sexagenaire-lardee-de-coups-de-couteau-mis-en-examen_62137920.html\">Actu.fr</a>",
+    "lat": 44.0034948,
+    "lng": 4.7721516,
+    "age": "60"
+  },
+  {
+    "date": "16/01/2025",
+    "name": "Une femme",
+    "city": "Lucon",
+    "link": "<a href=\"https://www.ouest-france.fr/pays-de-la-loire/lucon-85400/meurtre-dune-femme-a-lucon-il-reconnait-lavoir-etranglee-et-etouffee-5e16a0e4-d634-11ef-ba2d-4caba193000f\">Ouest France</a>",
+    "lat": 46.4555953,
+    "lng": -1.1645595,
+    "age": "69"
+  },
+  {
+    "date": "23/01/2025",
+    "name": "Geraldine",
+    "city": "Landerneau",
+    "link": "<a href=\"https://www.20minutes.fr/faits_divers/4135276-20250124-finistere-femme-retrouvee-morte-mare-sang-fils-activement-recherche\">20 Minutes</a>",
+    "lat": 48.4514803,
+    "lng": -4.2557901,
+    "age": "64"
+  },
+  {
+    "date": "23/01/2025",
+    "name": "Maeva",
+    "city": "Saint-Martin-aux-Chartrains",
+    "link": "<a href=\"https://www.paris-normandie.fr/id601483/article/2025-01-29/meurtre-de-maeva-et-martin-en-normandie-stupefiants-mini-pelle-et-cordonnerie\">Paris Normandie</a>",
+    "lat": 49.3075289,
+    "lng": 0.1536616,
+    "age": "20"
+  },
+  {
+    "date": "29/01/2025",
+    "name": "Une femme",
+    "city": "Ploubazlanec",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/lannion/femme-retrouvee-morte-a-son-domicile-a-ploubazlanec-son-frere-reconnait-les-faits-et-est-mis-en-examen-3107311.html\">France 3 Regions </a>",
+    "lat": 48.800878,
+    "lng": -3.032721,
+    "age": "66"
+  },
+  {
+    "date": "31/01/2025",
+    "name": "Une femme",
+    "city": "Retonfey",
+    "link": "<a href=\"https://www.ouest-france.fr/faits-divers/meurtres/pres-de-metz-un-policier-se-suicide-apres-avoir-tue-sa-mere-gravement-malade-et-son-pere-51fd0322-e0d2-11ef-822c-d93b68cf46e7\">Ouest France</a>",
+    "lat": 49.1363,
+    "lng": 6.3053,
+    "age": "73"
+  },
+  {
+    "date": "29/01/2025",
+    "name": "Elise",
+    "city": "Portiragnes",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/occitanie/herault/beziers/il-se-serait-suicide-apres-avoir-tue-sa-femme-un-couple-d-octogenaires-belges-retrouve-mort-3101332.html\">France 3 Regions</a>",
+    "lat": 43.3036,
+    "lng": 3.33477,
+    "age": "80"
+  },
+  {
+    "date": "08/02/2025",
+    "name": "Une femme",
+    "city": "Borgo",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/borgo-une-femme-tuee-a-son-domicile-un-proche-place-en-garde-a-vue-pour-homicide-volontaire-3084783\">France Bleu</a>",
+    "lat": 42.5541524,
+    "lng": 9.4277361,
+    "age": "50"
+  },
+  {
+    "date": "08/02/2025",
+    "name": "Louise",
+    "city": "Longjumeau",
+    "link": "<a href=\"https://www.francetvinfo.fr/faits-divers/meurtre-de-louise-en-essonne/meurtre-de-louise-en-essonne-que-sait-on-du-principal-suspect-passe-aux-aveux_7070024.html\">France TV Info</a>",
+    "lat": 48.6943793,
+    "lng": 2.2953297,
+    "age": "11"
+  },
+  {
+    "date": "11/02/2025",
+    "name": "Elena",
+    "city": "Offenbourg",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/meurtre-d-une-alsacienne-a-offenbourg-le-suspect-etait-un-ancien-patient-de-la-victime-3093072\">France Bleu</a>",
+    "lat": 46.675919972860626,
+    "lng": 5.567927137661557,
+    "age": "37"
+  },
+  {
+    "date": "15/02/2025",
+    "name": "Laurie",
+    "city": "Sevremoine",
+    "link": "<a href=\"https://www.francetvinfo.fr/societe/feminicides/un-homme-de-50-ans-mis-en-examen-et-ecroue-apres-un-feminicide-dans-le-maine-et-loire_7082661.html#xtor=CS2-765-%5Bautres%5D-\">France TV Info</a>",
+    "lat": 47.08775155,
+    "lng": -1.0821288289702786,
+    "age": "45"
+  },
+  {
+    "date": "18/02/2025",
+    "name": "Une femme",
+    "city": "Strasbourg",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/un-jeune-homme-tue-sa-mere-a-coups-de-couteau-a-strasbourg-3110164.html\">France 3 Regions</a>",
+    "lat": 48.584614,
+    "lng": 7.7507127,
+    "age": "60"
+  },
+  {
+    "date": "20/02/2025",
+    "name": "Gaelle",
+    "city": "Coincourt",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/meurthe-et-moselle-le-corps-d-une-femme-retrouve-dans-une-voiture-a-coincourt-3884166\">France Bleu</a>",
+    "lat": 48.7003558,
+    "lng": 6.6128635,
+    "age": "36"
+  },
+  {
+    "date": "06/02/2025",
+    "name": "Dawn",
+    "city": "Villefranche-de-Rouergue",
+    "link": "<a href=\"https://www.ladepeche.fr/2025/02/26/mort-dun-couple-de-britanniques-en-aveyron-une-scene-de-crime-maquillee-en-cambriolage-pourquoi-lhypothese-dun-meurtre-suicide-reste-privilegiee-12534842.php\">La Depeche </a>",
+    "lat": 44.3517623,
+    "lng": 2.0375431,
+    "age": "63"
+  },
+  {
+    "date": "28/02/2025",
+    "name": "Une femme",
+    "city": "Marseille",
+    "link": "<a href=\"https://www.laprovence.com/article/faits-divers-justice/3188077994295614/marseille-une-grand-mere-tuee-a-coups-de-couteau-sa-fille-grievement-blessee-le-petit-fils-a-interpelle\">La Provence</a>",
+    "lat": 43.2961743,
+    "lng": 5.3699525,
+    "age": "81"
+  },
+  {
+    "date": "28/02/2025",
+    "name": "Une femme",
+    "city": "Changis-Sur-Marne",
+    "link": "<a href=\"https://actu.fr/ile-de-france/changis-sur-marne_77084/seine-et-marne-un-homme-de-86-ans-tue-sa-femme-avant-de-retourner-larme-contre-lui_62319033.html\">Actu.fr</a>",
+    "lat": 48.9585551,
+    "lng": 3.0140569,
+    "age": "80"
+  },
+  {
+    "date": "01/03/2025",
+    "name": "Une femme",
+    "city": "Choisy-le-Roi",
+    "link": "<a href=\"https://actu.fr/ile-de-france/choisy-le-roi_94022/val-de-marne-une-femme-de-60-ans-tuee-de-plusieurs-coups-de-couteau-son-mari-et-son-fils-interpelles_62318718.html\">Actu.fr</a>",
+    "lat": 48.7630238,
+    "lng": 2.4093664,
+    "age": "60"
+  },
+  {
+    "date": "01/01/2024",
+    "name": "Une femme",
+    "city": "Bourail, Nouvelle-Caledonie",
+    "link": "<a href=\"https://la1ere.francetvinfo.fr/nouvellecaledonie/province-sud/bourail/bourail-une-femme-retrouvee-morte-a-bacouya-1454153.html\">France TV info</a>",
+    "lat": -21.519406500000002,
+    "lng": 165.44172309591033,
+    "age": "29"
+  },
+  {
+    "date": "02/01/2024",
+    "name": "Une femme",
+    "city": "Negrepelisse, 82",
+    "link": "<a href=\"https://www.ladepeche.fr/2024/01/02/info-la-depeche-feminicide-le-jour-de-lan-une-femme-de-62-ans-retrouvee-morte-chez-elle-son-compagnon-laurait-assassinee-avant-de-se-suicider-11673553.php#\">La depeche du midi</a>",
+    "lat": 44.0761111,
+    "lng": 1.5225,
+    "age": "62"
+  },
+  {
+    "date": "03/01/2024",
+    "name": "Une femme",
+    "city": "Vinon-sur-Verdon, 83",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/une-femme-de-75-ans-meurt-etranglee-par-son-mari-a-vinon-sur-verdon-1090104\">France Bleu</a>",
+    "lat": 43.7245683,
+    "lng": 5.8127618,
+    "age": "75"
+  },
+  {
+    "date": "05/01/2024",
+    "name": "Louane",
+    "city": "Toulouse",
+    "link": "<a href=\"https://www.ladepeche.fr/2024/01/06/sideration-apres-la-mort-de-louane-16-ans-poignardee-par-son-beau-pere-qui-sest-tire-une-balle-dans-la-bouche-11680601.php\">La depeche du midi</a>",
+    "lat": 43.6044622,
+    "lng": 1.4442469,
+    "age": "16"
+  },
+  {
+    "date": "09/01/2024",
+    "name": "Une femme",
+    "city": "Mamoudzou",
+    "link": "<a href=\"https://www.sudouest.fr/societe/feminicides/feminicide-un-homme-suspecte-d-avoir-etrangle-sa-compagne-interpelle-a-mayotte-18072130.php\">Journal sud ouest</a>",
+    "lat": -12.7804136,
+    "lng": 45.2279761,
+    "age": "29"
+  },
+  {
+    "date": "11/01/2024",
+    "name": "Leila",
+    "city": "Brassac",
+    "link": "<a href=\"https://www.ladepeche.fr/2024/01/12/feminicide-a-brassac-le-compagnon-avoue-avoir-tire-sur-la-victime-de-50-ans-dans-leur-appartement-11691664.php\">La depeche du midi</a>",
+    "lat": 43.6294985,
+    "lng": 2.4976209,
+    "age": "50"
+  },
+  {
+    "date": "12/01/2024",
+    "name": "Une femme",
+    "city": "Saint-Mandrier-Sur-Mer",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/suspicion-de-feminicide-a-saint-mandrier-apres-la-decouverte-de-deux-corps-dans-un-appartement-7863759\">France bleu</a>",
+    "lat": 43.0761,
+    "lng": 5.92658,
+    "age": "56"
+  },
+  {
+    "date": "07/01/2024",
+    "name": "Une femme",
+    "city": "Decines-Charpieu",
+    "link": "<a href=\"https://rmc.bfmtv.com/actualites/police-justice/faits-divers/le-conjoint-d-une-femme-decedee-apres-une-chute-du-7e-etage-mis-en-examen-pourharcelement_AD-202401100882.html\">BFMTV</a> - <a href=\"https://theconversation.com/violence-conjugale-pourquoi-la-notion-de-controle-coercitif-pourrait-produire-plus-de-justice-215743#:~:text=Ainsi%20en%202021%2C%20la%20Cour,avoir%20lieu%20%C2%AB%20sans%20tarder%20%C2%BB\">Pour en savoir plus</a>",
+    "lat": 45.773606,
+    "lng": 4.9633314,
+    "age": "29"
+  },
+  {
+    "date": "15/01/2024",
+    "name": "Michelle",
+    "city": "Nieuil-l'Espoir",
+    "link": "<a href=\"https://www.francetvinfo.fr/societe/feminicides/vienne-un-homme-tue-sa-femme-avant-de-se-suicider-a-nieuil-l-espoir_6306684.html\">France TV Info</a>",
+    "lat": 46.4847979,
+    "lng": 0.4562577,
+    "age": "60"
+  },
+  {
+    "date": "15/01/2024",
+    "name": "Une femme",
+    "city": "Saint-Herblain",
+    "link": "<a href=\"https://www.leparisien.fr/faits-divers/un-pere-tue-sa-fille-handicapee-de-28-ans-puis-se-suicide-pres-de-nantes-16-01-2024-WIBE4Y42HFC2TDL7GKTEPYDX3I.php\">Le Parisien</a> - <a href=\"https://www.francebleu.fr/infos/faits-divers-justice/saint-herblain-un-pere-de-famille-etrangle-sa-fille-handicapee-avant-de-se-suicider-7509836\">Francebleu</a>",
+    "lat": 47.2233007,
+    "lng": -1.6346964,
+    "age": "28"
+  },
+  {
+    "date": "15/01/2024",
+    "name": "Brigitte",
+    "city": "Nogent-le-Roi",
+    "link": "<a href=\"https://www.lechorepublicain.fr/nogent-le-roi-28210/actualites/une-jeune-retraitee-retrouvee-morte-a-nogent-le-roi_14436654/?fbclid=IwAR15ibNX18waoEeVi7c1Av_acWqCzGLI-h5hukafEo9D9iBzfP8qPa-jOQ0\">Le chore republicain</a>",
+    "lat": 48.6485761,
+    "lng": 1.5322266,
+    "age": "63"
+  },
+  {
+    "date": "23/01/2024",
+    "name": "Magali",
+    "city": "Bretoncelles",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/le-mari-avoue-avoir-tue-son-epouse-a-bretoncelles-dans-l-orne-4296730\">Francebleu</a>",
+    "lat": 48.4311734,
+    "lng": 0.8863651,
+    "age": "52"
+  },
+  {
+    "date": "25/01/2024",
+    "name": "Christelle",
+    "city": "Saint-Benoit",
+    "link": "<a href=\"https://www.ladepeche.fr/2024/01/29/le-corps-demembre-dune-femme-decouvert-enquete-suspects-ecroues-ce-que-lon-sait-du-drame-effroyable-qui-secoue-la-reunion-11728990.php\">La depeche du midi </a>",
+    "lat": 43.0169012,
+    "lng": 2.0639828,
+    "age": "29"
+  },
+  {
+    "date": "26/01/2024",
+    "name": "Une femme",
+    "city": "Marseille",
+    "link": "<a href=\"https://www.tf1info.fr/justice-faits-divers/marseille-feminicide-meurtre-il-reconnait-avoir-tue-sa-femme-n-explique-pas-son-geste-2284520.html\">TF1 Info</a>",
+    "lat": 43.2961743,
+    "lng": 5.3699525,
+    "age": "72"
+  },
+  {
+    "date": "02/02/2024",
+    "name": "Une femme",
+    "city": "Sanary-sur-Mer",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/var/toulon/une-femme-tuee-par-son-mari-a-sanary-sur-mer-2918265.html \">France3 Regions</a>",
+    "lat": 43.1177238,
+    "lng": 5.8008839,
+    "age": "64"
+  },
+  {
+    "date": "04/02/2024",
+    "name": "Edith",
+    "city": "Vincelles",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/deux-morts-par-arme-a-feu-vers-louhans-la-piste-d-un-feminicide-suivi-d-un-suicide-privilegiee-2918835.html\">France 3 Regions</a>",
+    "lat": 49.09103,
+    "lng": 3.64072,
+    "age": "54"
+  },
+  {
+    "date": "04/02/2024",
+    "name": "Une femme",
+    "city": "Saint-Raphael",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/a-nouveau-un-homme-suspecte-du-meurtre-de-sa-femme-dans-le-var-a-saint-raphael-1512181\">France bleu</a>",
+    "lat": 45.3043079,
+    "lng": 1.0747165,
+    "age": "77"
+  },
+  {
+    "date": "03/02/2024",
+    "name": "Une femme",
+    "city": "Saint Pierre",
+    "link": "<a href=\"https://www.linfo.re/la-reunion/faits-divers/drame-a-saint-pierre-une-mere-aurait-ete-tuee-par-son-fils-il-a-ete-place-en-garde-a-vue\">Linfo.re</a>",
+    "lat": 48.3832725,
+    "lng": 7.4718731,
+    "age": "55"
+  },
+  {
+    "date": "05/02/2024",
+    "name": "Une femme",
+    "city": "Marignane",
+    "link": "<a href=\"https://www.laprovence.com/article/region/40064494877905/feminicide-a-marignane-la-femme-de-76-ans-presentait-des-traces-de-coup\">La Provence</a>",
+    "lat": 43.4162729,
+    "lng": 5.2146275,
+    "age": "76"
+  },
+  {
+    "date": "06/02/2024",
+    "name": "Une femme",
+    "city": "Puget-sur-Argens",
+    "link": "<a href=\"https://www.ladepeche.fr/2024/02/07/a-97-ans-un-homme-ouvre-le-feu-sur-son-epouse-de-95-ans-et-la-tue-11750572.php\">La Depeche</a>",
+    "lat": 43.4561681,
+    "lng": 6.6844356,
+    "age": "95"
+  },
+  {
+    "date": "11/02/2024",
+    "name": "Cynthia",
+    "city": "Sainte-Foy-les-Lyon",
+    "link": "<a href=\"https://www.francetvinfo.fr/societe/violences-faites-aux-femmes/rhone-le-corps-carbonise-d-une-femme-retrouve-pres-de-lyon-son-concubin-introuvable_6361783.html#xtor=CS2-765-%5Bautres%5D-\">Francetv info</a>",
+    "lat": 45.7362255,
+    "lng": 4.7934767,
+    "age": "43"
+  },
+  {
+    "date": "14/02/2024",
+    "name": "Lorena",
+    "city": "Fort-de-France",
+    "link": "<a href=\"https://la1ere.francetvinfo.fr/martinique/une-femme-de-22-ans-tuee-par-balle-a-fort-de-france-1465128.htm\">la1ere.francetv info</a>",
+    "lat": 14.6027962,
+    "lng": -61.0676724,
+    "age": "22"
+  },
+  {
+    "date": "14/02/2024",
+    "name": "Lauren",
+    "city": "Frejus",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/la-jeune-femme-frappee-par-son-compagnon-a-grimaud-est-decedee-1587467\">France bleu</a>",
+    "lat": 43.4330308,
+    "lng": 6.7360182,
+    "age": "29"
+  },
+  {
+    "date": "13/01/2024",
+    "name": "Une femme",
+    "city": "Bain-de-Bretagne",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/pres-de-rennes-une-jeune-fille-de-15-ans-violee-et-tuee-par-un-adolescent-du-cercle-familiale-2926284.html\">France 3 Regions</a>",
+    "lat": 47.8414377,
+    "lng": -1.6852229,
+    "age": "15"
+  },
+  {
+    "date": "15/02/2024",
+    "name": "Marie-Antoinette",
+    "city": "Antisanti",
+    "link": "<a href=\"https://www.corsematin.com/article/faits-diversjustice/74112473943718/homicide-dantisanti-le-fils-de-la-victime-aurait-reconnu-etre-lauteur-des-faits\">Corse matin</a>",
+    "lat": 42.1667523,
+    "lng": 9.347131,
+    "age": "86"
+  },
+  {
+    "date": "17/02/2024",
+    "name": "Emma",
+    "city": "Venissieux",
+    "link": "<a href=\"https://www.ouest-france.fr/faits-divers/feminicide/une-femme-tuee-a-venissieux-son-compagnon-filme-la-scene-et-envoie-la-video-a-son-frere-1be2bf54-cd85-11ee-ae65-ae2b32b20025\">Ouest France</a>",
+    "lat": 45.6977109,
+    "lng": 4.8855966,
+    "age": "24"
+  },
+  {
+    "date": "19/02/2024",
+    "name": "Hayatte",
+    "city": "Montfermeil",
+    "link": "<a href=\"https://actu.fr/ile-de-france/montfermeil_93047/seine-saint-denis-une-femme-retrouvee-morte-a-son-domicile-son-conjoint-interpelle_60718970.html\">Actu.fr</a>",
+    "lat": 48.8992679,
+    "lng": 2.5660399,
+    "age": "38"
+  },
+  {
+    "date": "20/02/2024",
+    "name": "Marie-Pierre",
+    "city": "Montpellier",
+    "link": "<a href=\"https://www.lemonde.fr/societe/article/2024/02/20/a-montpellier-un-homme-a-tue-son-ex-femme-devant-le-tribunal-judiciaire-la-piste-du-feminicide-confirmee_6217510_3225.html\">Le Monde</a>",
+    "lat": 43.6112422,
+    "lng": 3.8767337,
+    "age": "66"
+  },
+  {
+    "date": "17/02/2024",
+    "name": "Pauline",
+    "city": "Lanester",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/bretagne/morbihan/lorient/le-corps-de-la-jeune-femme-disparue-a-lorient-retrouve-dans-un-sous-bois-un-suspect-place-en-garde-a-vue-2928792.html\">France3 Bretagne</a>",
+    "lat": 47.7639726,
+    "lng": -3.3444489,
+    "age": "32"
+  },
+  {
+    "date": "14/02/2024",
+    "name": "Maylis",
+    "city": "Chilly-Mazarin",
+    "link": "<a href=\"https://www.bfmtv.com/paris/info-bfm-paris-ile-de-france-mort-de-mayliss-une-information-judiciaire-ouverte-pour-assassinat-quatre-suspects-deferes_AN-202402230882.html\">BFM TV</a>",
+    "lat": 48.7026161,
+    "lng": 2.3123582,
+    "age": "18"
+  },
+  {
+    "date": "26/02/2024",
+    "name": "Une femme",
+    "city": "Cagnes-sur-Mer",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cagnes-sur-mer/un-feminicide-decouvert-a-cagnes-sur-mer-2931240.html\">France3 Provence-Alpes</a>",
+    "lat": 43.6612012,
+    "lng": 7.1513834,
+    "age": "44"
+  },
+  {
+    "date": "01/02/2024",
+    "name": "Une femme",
+    "city": "Saint-Paul-de Fenouillet",
+    "link": "<a href=\"https://www.lindependant.fr/2024/02/24/pyrenees-orientales-la-mere-de-famille-defenestree-a-succombe-a-ses-blessures-11785929.php\">L'Independant</a>",
+    "lat": 42.8105182,
+    "lng": 2.5042356,
+    "age": "35"
+  },
+  {
+    "date": "28/01/2024",
+    "name": "Alicia",
+    "city": "Beussent",
+    "link": "<a href=\"https://www.lavoixdunord.fr/1439877/article/2024-03-12/femme-retrouvee-morte-beussent-le-compagnon-de-la-victime-avoue-l-avoir-tuee \">La voix du Nord</a>",
+    "lat": 50.5465877,
+    "lng": 1.7929561,
+    "age": "28"
+  },
+  {
+    "date": "22/02/2024",
+    "name": "Une femme",
+    "city": "Saint-Nicolas-d'Aliermont",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/pres-de-dieppe-un-homme-tue-sa-soeur-blesse-ses-neveux-et-tente-de-se-suicider-8170579 \">France bleu</a>",
+    "lat": 49.878403,
+    "lng": 1.2140639,
+    "age": "45"
+  },
+  {
+    "date": "11/03/2024",
+    "name": "Une femme",
+    "city": "Gerstheim",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/gerstheim-un-homme-soupconne-d-avoir-tue-sa-femme-2338455 \">France bleu</a>",
+    "lat": 48.3803691,
+    "lng": 7.7018376,
+    "age": "55"
+  },
+  {
+    "date": "15/03/2024",
+    "name": "Une femme",
+    "city": "Marseille",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/feminicide-un-homme-de-89-ans-tue-sa-femme-de-85-ans-et-se-suicide-2940105.html \">France 3</a>",
+    "lat": 43.2961743,
+    "lng": 5.3699525,
+    "age": "85"
+  },
+  {
+    "date": "14/03/2024",
+    "name": "Une femme",
+    "city": "Montigny-les-Metz",
+    "link": "<a href=\"https://www.ouest-france.fr/faits-divers/feminicide/feminicide-pres-de-metz-deux-hommes-mis-en-examen-et-ecroues-b2b8079c-e3cc-11ee-b685-1479f5265e87\">Ouest-France</a>",
+    "lat": 49.0999832,
+    "lng": 6.153041,
+    "age": "31"
+  },
+  {
+    "date": "24/03/2024",
+    "name": "Jeannette",
+    "city": "Prunelli-di-Fiumorbu",
+    "link": "<a href=\"https://www.ouest-france.fr/societe/faits-divers/une-octogenaire-retrouvee-morte-chez-elle-en-corse-son-fils-mis-en-examen-pour-meurtre-42c21586-eb60-11ee-acb3-3f1203281380\">Ouest France</a>",
+    "lat": 42.0056418,
+    "lng": 9.372987130592435,
+    "age": "88"
+  },
+  {
+    "date": "26/03/2024",
+    "name": "Une femme",
+    "city": "Loire-Authion",
+    "link": "<a href=\"https://www.ouest-france.fr/faits-divers/feminicide/macabre-decouverte-en-maine-et-loire-un-couple-retrouve-mort-a-son-domicile-db2dec30-eb62-11ee-9706-81db63ab310d\">Ouest France</a>",
+    "lat": 47.469642,
+    "lng": -0.3825314294033625,
+    "age": "40"
+  },
+  {
+    "date": "22/03/2024",
+    "name": "Alexandra",
+    "city": "Paris",
+    "link": "<a href=\"https://www.leparisien.fr/faits-divers/alexandra-36-ans-poignardee-a-mort-a-paris-son-homme-de-menage-interpelle-28-03-2024-PWW6UWPLQNHNBPIVULDCDGKULY.php\">Le Parisien</a> - <a href=\"\"></a>",
+    "lat": 48.8588897,
+    "lng": 2.3200410217200766,
+    "age": "36"
+  },
+  {
+    "date": "27/03/2024",
+    "name": "Shannon",
+    "city": "Rantigny",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/hauts-de-france/oise/senlis/une-collegienne-de-13-ans-morte-des-suites-d-un-viol-apres-2-semaines-dans-le-coma-2948216.html\">France3 Hauts de France</a>",
+    "lat": 49.3311881,
+    "lng": 2.440098,
+    "age": "13"
+  },
+  {
+    "date": "29/03/2024",
+    "name": "Une femme",
+    "city": "Mirecourt",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/grand-est/vosges/epinal/une-femme-d-une-soixantaine-d-annees-retrouvee-morte-dans-les-vosges-son-conjoint-en-garde-a-vue-2948180.html\">France3 Lorraine</a>",
+    "lat": 48.3005302,
+    "lng": 6.1312974,
+    "age": "60"
+  },
+  {
+    "date": "06/01/2024",
+    "name": "Zaouina",
+    "city": "Marseille",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/une-femme-retrouvee-morte-son-fils-se-defenestre-ce-que-l-on-sait-de-l-incendie-dans-le-15e-arrondissement-a-marseille-2902301.html\">France3 Provence-Alpes</a>",
+    "lat": 43.2961743,
+    "lng": 5.3699525,
+    "age": "60"
+  },
+  {
+    "date": "25/01/2024",
+    "name": "Emeline",
+    "city": "Ibos",
+    "link": "<a href=\"https://www.ladepeche.fr/2024/04/05/suicide-demeline-victime-de-violences-conjugales-une-marche-blanche-pour-denoncer-les-dangers-de-lemprise-11873236.php\">La Depeche du Midi</a>",
+    "lat": 43.2325985,
+    "lng": 0.0045982,
+    "age": "26"
+  },
+  {
+    "date": "23/03/2024",
+    "name": "Une femme",
+    "city": "Paris",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/un-femme-decouverte-poignardee-apres-le-suicide-d-un-homme-a-paris-6106559\">France bleu</a>",
+    "lat": 48.8588897,
+    "lng": 2.3200410217200766,
+    "age": "70"
+  },
+  {
+    "date": "05/04/2024",
+    "name": "Auriane",
+    "city": "La Salle (Italie)",
+    "link": "<a href=\"https://www.francetvinfo.fr/faits-divers/une-francaise-retrouvee-morte-poignardee-en-vallee-d-aoste-en-italie_6478874.html#xtor=CS2-765-%5Bautres%5D-Mail\">France TV Info</a>",
+    "lat": 43.2905706,
+    "lng": 5.3816202,
+    "age": "22"
+  },
+  {
+    "date": "08/04/2024",
+    "name": "Corinne",
+    "city": "Lectoure",
+    "link": "<a href=\"https://www.ladepeche.fr/2024/04/10/matricide-dans-le-gers-un-drame-familial-atroce-ce-que-lon-sait-de-la-victime-et-de-son-fils-suspecte-de-meurtre-11883025.php\">La Depeche du Midi</a>",
+    "lat": 43.9352778,
+    "lng": 0.6219444,
+    "age": "60"
+  },
+  {
+    "date": "17/04/2024",
+    "name": "Yasmin",
+    "city": "Macouria",
+    "link": "<a href=\"https://la1ere.francetvinfo.fr/guyane/triple-homicide-a-macouria-1481315.html\">Outremer La 1ere</a>",
+    "lat": 5.0130354,
+    "lng": -52.4744678,
+    "age": "24"
+  },
+  {
+    "date": "20/04/2024",
+    "name": "Une femme",
+    "city": "Cayenne",
+    "link": "<a href=\"https://la1ere.francetvinfo.fr/guyane/une-adolescente-de-16-ans-tuee-et-sa-mere-gravement-blessee-a-l-arme-blanche-a-cayenne-1482086.html\">Outremer La 1ere</a>",
+    "lat": 4.9371544,
+    "lng": -52.3258736,
+    "age": "50"
+  },
+  {
+    "date": "28/04/2024",
+    "name": "Nathalie",
+    "city": "Marigot",
+    "link": "<a href=\"https://la1ere.francetvinfo.fr/guadeloupe/a-saint-martin-une-femme-battue-a-mort-son-conjoint-arrete-1485338.html\">Guadeloupe la 1ere</a>",
+    "lat": 18.0668544,
+    "lng": -63.0848869,
+    "age": "30"
+  },
+  {
+    "date": "03/05/2024",
+    "name": "Une femme",
+    "city": "Saint-Jean-De-Luz",
+    "link": "<a href=\"https://www.francetvinfo.fr/faits-divers/pyrenees-atlantiques-une-femme-de-34-ans-decouverte-morte-dans-un-hotel-de-saint-jean-de-luz-son-compagnon-place-en-garde-a-vue_6523337.html\">France TV Info</a>",
+    "lat": 43.387219,
+    "lng": -1.6636947,
+    "age": "34"
+  },
+  {
+    "date": "11/05/2024",
+    "name": "Une femme",
+    "city": "Antibes",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/antibes/suspicion-de-feminicide-un-homme-interpelle-en-italie-apres-la-decouverte-du-corps-de-son-ex-compagne-a-antibes-2969087.html\">France 3 Regions</a>",
+    "lat": 43.5812868,
+    "lng": 7.1262071,
+    "age": "33"
+  },
+  {
+    "date": "14/05/2024",
+    "name": "Solene",
+    "city": "Le Breil-sur-Merize",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/pays-de-la-loire/sarthe/le-mans/deux-morts-par-arme-a-feu-le-pere-tue-sa-fille-avant-de-se-suicider-2970497.html\">France 3 Regions</a>",
+    "lat": 48.0085995,
+    "lng": 0.4754239,
+    "age": "33"
+  },
+  {
+    "date": "14/05/2024",
+    "name": "Une femme",
+    "city": "Paris",
+    "link": "<a href=\"https://www.20minutes.fr/faits_divers/4091786-20240519-paris-homme-mis-examen-meurtre-mere-mains-nues\">20 Minutes</a>",
+    "lat": 48.8588897,
+    "lng": 2.3200410217200766,
+    "age": "75"
+  },
+  {
+    "date": "18/05/2024",
+    "name": "Une femme",
+    "city": "Mulhouse",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/grand-est/haut-rhin/mulhouse/la-femme-percutee-par-son-conjoint-dans-le-haut-rhin-est-morte-2972324.html\">France 3 Regions</a>",
+    "lat": 47.7467233,
+    "lng": 7.3389937,
+    "age": "33"
+  },
+  {
+    "date": "21/05/2024",
+    "name": "Une femme",
+    "city": "Ingrandes-sur-Vienne",
+    "link": "<a href=\"https://www.lanouvellerepublique.fr/chatellerault/vienne-malade-un-nonagenaire-tue-son-epouse-pres-de-chatellerault\">La Nouvelle Republique</a>",
+    "lat": 46.8746284,
+    "lng": 0.5691167,
+    "age": "88"
+  },
+  {
+    "date": "22/05/2024",
+    "name": "Evelyne",
+    "city": "Saint-Jean-d’Asse",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/feminicide-un-sarthois-tue-son-ex-conjointe-avant-de-se-suicider-8500888\">France Bleu</a>",
+    "lat": 48.1506368,
+    "lng": 0.1226684,
+    "age": "67"
+  },
+  {
+    "date": "27/05/2024",
+    "name": "Une femme",
+    "city": "Torcy",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/feminicide-un-homme-tue-sa-femme-et-retourne-l-arme-contre-lui-a-torcy-dans-le-pas-de-calais-2976290.html\">France 3 Haut de France</a>",
+    "lat": 50.4830626,
+    "lng": 2.02302,
+    "age": "33"
+  },
+  {
+    "date": "28/05/2024",
+    "name": "Une femme",
+    "city": "Capersterre-Belle-Eau",
+    "link": "<a href=\"https://la1ere.francetvinfo.fr/guadeloupe/meurtre-a-capesterre-belle-eau-une-femme-tuee-par-arme-a-feu-par-son-compagnon-1491959.html\">Outremer La 1ere</a>",
+    "age": "27"
+  },
+  {
+    "date": "28/05/2024",
+    "name": "Une femme",
+    "city": "Monflanquin",
+    "link": "<a href=\"https://www.20minutes.fr/faits_divers/4093424-20240529-lot-garonne-couple-age-retrouve-mort-balle-chez-intervention-tiers-jugee-peu-vraisemblable\">20 Minutes</a>",
+    "lat": 44.5315985,
+    "lng": 0.7699592,
+    "age": "63"
+  },
+  {
+    "date": "31/05/2024",
+    "name": "Zahia",
+    "city": "Bruay-sur-L'Escaut",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/bruay-sur-l-escaut-une-femme-de-41-ans-tuee-par-son-compagnon-5851341\">France Bleu</a>",
+    "lat": 50.397277,
+    "lng": 3.5379105,
+    "age": "41"
+  },
+  {
+    "date": "02/06/2024",
+    "name": "Une femme",
+    "city": "Dommartin-les-Toul",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/grand-est/meurthe-et-moselle/drame-familial-a-dommartin-les-toul-un-homme-pendu-sa-femme-retrouvee-morte-2979857.html\">France 3 Regions</a>",
+    "lat": 48.6711081,
+    "lng": 5.9099793,
+    "age": "39"
+  },
+  {
+    "date": "05/06/2024",
+    "name": "Une femme",
+    "city": "Gisy-les-Nobles",
+    "link": "<a href=\"https://www.leparisien.fr/faits-divers/yonne-un-couple-de-personnes-agees-retrouve-mort-la-piste-dun-feminicide-suivi-dun-suicide-envisagee-07-06-2024-SE7TU4BOLBB2LGMXMTEPZUDTR4.php\">La Parisien</a>",
+    "lat": 48.2799898,
+    "lng": 3.24361,
+    "age": "75"
+  },
+  {
+    "date": "03/06/2024",
+    "name": "Une femme",
+    "city": "Nommay",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/nommay-un-homme-de-87-ans-mis-en-examen-pour-assassinat-apres-la-mort-de-sa-fille-handicapee-de-57-ans-3656782\">France Bleu</a>",
+    "lat": 47.5379814,
+    "lng": 6.8474821,
+    "age": "57"
+  },
+  {
+    "date": "07/06/2024",
+    "name": "Une femme",
+    "city": "Frejus",
+    "link": "<a href=\"https://www.ouest-france.fr/faits-divers/feminicide/une-femme-decede-defenestree-a-frejus-son-mari-mis-en-examen-et-ecroue-77493786-2723-11ef-9ce1-91b4c7587fdc\">Ouest France</a>",
+    "lat": 43.4330308,
+    "lng": 6.7360182,
+    "age": "25"
+  },
+  {
+    "date": "10/06/2024",
+    "name": "Lysiane",
+    "city": "Ferin",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/un-quinquagenaire-arrete-pour-avoir-poignarde-une-femme-de-82-ans-a-son-domicile-2985467.html\">France3 Regions</a>",
+    "lat": 50.3274102,
+    "lng": 3.074352,
+    "age": "82"
+  },
+  {
+    "date": "22/02/2024",
+    "name": "Angela",
+    "city": "Chenex",
+    "link": "<a href=\"https://www.francetvinfo.fr/faits-divers/un-homme-accuse-d-avoir-tue-une-mere-de-famille-rom-ecroue-pour-meurtre-en-haute-savoie_6592494.html\">France Info</a>",
+    "lat": 46.1055214,
+    "lng": 5.9939732,
+    "age": "40"
+  },
+  {
+    "date": "27/06/2024",
+    "name": "Une femme",
+    "city": "Bouscat",
+    "link": "<a href=\"https://actu.fr/nouvelle-aquitaine/bordeaux_33063/reportage-un-homme-suspecte-apres-la-chute-mortelle-de-sa-compagne-au-bouscat-ils-avaient-l-air-heureux_61303919.html\">Nouvelle Aquitaine</a>",
+    "lat": 44.2740553,
+    "lng": 0.7974542,
+    "age": "42"
+  },
+  {
+    "date": "29/06/2024",
+    "name": "Une femme",
+    "city": "Chambery",
+    "link": "<a href=\"https://www.ledauphine.com/faits-divers-justice/2024/06/29/une-femme-retrouvee-morte-son-conjoint-un-sac-plastique-autour-de-la-tete\">Le Dauphine</a>",
+    "lat": 45.5662672,
+    "lng": 5.9203636,
+    "age": "89"
+  },
+  {
+    "date": "05/07/2024",
+    "name": "Angelina",
+    "city": "Compiegne",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/hauts-de-france/oise/compiegne/une-femme-trans-tuee-a-coups-de-hache-a-compiegne-son-compagnon-avoue-le-meurtre-3001091.html\">France 3 Regions</a>",
+    "lat": 49.4179497,
+    "lng": 2.8263171,
+    "age": "55"
+  },
+  {
+    "date": "09/07/2024",
+    "name": "Geraldine",
+    "city": "Paris",
+    "link": "<a href=\"https://www.rtl.fr/actu/debats-societe/paris-un-homme-soupconne-d-avoir-commis-un-crime-transphobe-place-en-garde-a-vue-7900402016\">RTL</a>",
+    "lat": 48.8588897,
+    "lng": 2.3200410217200766,
+    "age": "30"
+  },
+  {
+    "date": "27/06/2024",
+    "name": "Une femme",
+    "city": "Toulouse",
+    "link": "<a href=\"https://www.ouest-france.fr/societe/faits-divers/toulouse-la-nonagenaire-retrouvee-morte-dans-un-ehpad-a-ete-victime-dun-meurtre-par-asphyxie-5351088a-39f3-11ef-9bb5-7a0ef893f0bf\">Ouest France</a>",
+    "lat": 43.6044622,
+    "lng": 1.4442469,
+    "age": "97"
+  },
+  {
+    "date": "06/07/2024",
+    "name": "Une femme",
+    "city": "Niort",
+    "link": "<a href=\"https://www.francetvinfo.fr/societe/feminicides/feminicide-a-niort-le-conjoint-de-la-victime-mis-en-examen-et-place-en-detention-provisoire_6658548.html\">France TV Info</a>",
+    "lat": 46.3239233,
+    "lng": -0.4646064,
+    "age": "27"
+  },
+  {
+    "date": "12/07/2024",
+    "name": "Pauline",
+    "city": "Rennes",
+    "link": "<a href=\"https://www.leparisien.fr/faits-divers/defenestration-dun-couple-a-rennes-lenquete-soriente-vers-la-piste-dun-feminicide-17-07-2024-JTNBJ3EDGVFRFL3KY2KXPAJGQU.php\">Le Parisien</a>",
+    "lat": 48.1113387,
+    "lng": -1.6800198,
+    "age": "33"
+  },
+  {
+    "date": "06/07/2024",
+    "name": "Sylvie",
+    "city": "Arras",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/mise-en-examen-d-un-trentenaire-pour-le-meurtre-de-sa-mere-a-arras-3001604.html\">France 3 Regions</a>",
+    "lat": 50.291048,
+    "lng": 2.7772211,
+    "age": "58"
+  },
+  {
+    "date": "15/07/2024",
+    "name": "Une femme",
+    "city": "Deyvillers",
+    "link": "<a href=\"https://www.ladepeche.fr/2024/07/16/une-femme-de-69-ans-tuee-a-larme-blanche-a-son-domicile-son-fils-reconnait-les-faits-en-garde-a-vue-12085412.php\">La Depeche </a>",
+    "lat": 48.2008034,
+    "lng": 6.5141237,
+    "age": "69"
+  },
+  {
+    "date": "18/07/2024",
+    "name": "Romdhana",
+    "city": "Bobigny",
+    "link": "<a href=\"https://actu.fr/ile-de-france/bobigny_93008/une-femme-tuee-de-plusieurs-coups-de-couteau-a-bobigny-une-enquete-ouverte-pour-meurtre_61377494.html\">Actu.fr</a>",
+    "lat": 48.906387,
+    "lng": 2.4452231,
+    "age": "58"
+  },
+  {
+    "date": "18/07/2024",
+    "name": "Kalma",
+    "city": "Saint-Leu",
+    "link": "<a href=\"https://la1ere.francetvinfo.fr/reunion/saint-leu/saint-leu-une-femme-retrouvee-morte-a-son-domicile-son-mari-recherche-par-la-police-1507064.html\">France TV Info</a>",
+    "lat": -21.1677694,
+    "lng": 55.2881932,
+    "age": "62"
+  },
+  {
+    "date": "21/07/2024",
+    "name": "Une femme",
+    "city": "Saint-Francois (971)",
+    "link": "<a href=\"https://la1ere.francetvinfo.fr/guadeloupe/grande-terre/saint-francois/meurtre-d-une-jeune-femme-a-saint-francois-un-suspect-mis-en-examen-pour-meurtre-et-viol-1508723.html\">La 1ere France TV Info</a>",
+    "lat": 49.3687256,
+    "lng": 6.1702926,
+    "age": "30"
+  },
+  {
+    "date": "22/07/2024",
+    "name": "Alexandra",
+    "city": "Saint-Nazaire",
+    "link": "<a href=\"https://www.lindependant.fr/2024/07/24/femme-de-35-ans-tuee-par-balle-a-saint-nazaire-je-regrette-tout-le-suspect-mis-en-examen-pour-meurtre-sur-conjoint-12099981.php\">L'Independant</a>",
+    "lat": 47.2733517,
+    "lng": -2.2138905,
+    "age": "35"
+  },
+  {
+    "date": "25/07/2024",
+    "name": "Beatrice",
+    "city": "Noel-Cerneux",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/besancon/derriere-l-incendie-mortel-de-noel-cerneux-un-drame-familial-des-lettres-de-demandes-de-pardon-laissees-par-le-mari-3010574.html\">France 3 Regions</a>",
+    "lat": 47.1018,
+    "lng": 6.66199,
+    "age": "47"
+  },
+  {
+    "date": "26/07/2024",
+    "name": "Une femme",
+    "city": "Clapiers",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/une-jeune-femme-de-21-ans-tuee-a-clapiers-son-conjoint-interpelle-1269357\">France Bleu</a>",
+    "lat": 43.6567216,
+    "lng": 3.8868606,
+    "age": "21"
+  },
+  {
+    "date": "27/07/2024",
+    "name": "Une femme",
+    "city": "Baron-sur-Odon",
+    "link": "<a href=\"https://www.ouest-france.fr/normandie/une-femme-retrouvee-morte-a-baron-sur-odon-son-conjoint-gravement-blesse-f52715bc-4c33-11ef-a622-0126aa35ae01\">Ouest France</a>",
+    "lat": 49.1322769,
+    "lng": -0.4787124,
+    "age": "69"
+  },
+  {
+    "date": "11/08/2024",
+    "name": "Une femme",
+    "city": "Roches-de-Condrieu",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/femme-tuee-a-coups-de-couteau-en-isere-le-fils-avait-le-corps-couvert-de-sang-4357787\">France Bleu</a>",
+    "lat": 45.453,
+    "lng": 4.7682776,
+    "age": "64"
+  },
+  {
+    "date": "12/08/2024",
+    "name": "Une femme",
+    "city": "Paris",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/une-femme-accreditee-aux-jo-de-paris-2024-retrouvee-morte-au-domicile-de-son-compagnon-3017075.html\">France 3 Regions</a>",
+    "lat": 48.8588897,
+    "lng": 2.3200410217200766,
+    "age": "21"
+  },
+  {
+    "date": "12/08/2024",
+    "name": "Une femme",
+    "city": "Cran-Gevrier",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/annecy-l-homme-soupconne-de-feminicide-mis-en-examen-il-reconnait-les-faits-6627503\">France Bleu</a>",
+    "lat": 45.9079102,
+    "lng": 6.106538,
+    "age": "64"
+  },
+  {
+    "date": "12/08/2024",
+    "name": "Une femme",
+    "city": "Douai",
+    "link": "<a href=\"https://www.lanouvellerepublique.fr/nord/douai-une-femme-de-70-ans-retrouvee-morte-dans-son-appartement-son-petit-fils-s-accuse-du-meurtre\">La Nouvelle Republique</a>",
+    "lat": 50.3675677,
+    "lng": 3.0804641,
+    "age": "71"
+  },
+  {
+    "date": "17/08/2024",
+    "name": "Therese",
+    "city": "Saint-Heand",
+    "link": "<a href=\"https://www.lalsace.fr/faits-divers-justice/2024/08/17/feminicide-suivi-d-un-suicide-au-domicile-d-un-couple-d-octogenaires\">L'Alsace</a>",
+    "lat": 45.5296285,
+    "lng": 4.3752871,
+    "age": "84"
+  },
+  {
+    "date": "24/08/2024",
+    "name": "Marie-Louise",
+    "city": "Haveluy",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/homicide-a-haveluy-un-homme-de-34-ans-presente-a-un-juge-d-instruction-8084940\">France Bleu</a>",
+    "lat": 50.3525832,
+    "lng": 3.4037295,
+    "age": "66"
+  },
+  {
+    "date": "25/08/2024",
+    "name": "Elise",
+    "city": "Bousbecque",
+    "link": "<a href=\"https://www.lavoixdunord.fr/1495618/article/2024-08-26/bousbecque-une-femme-retrouvee-morte-son-domicile-son-mari-interpelle\">La voix du Nord</a>",
+    "lat": 50.7720856,
+    "lng": 3.076757,
+    "age": "37"
+  },
+  {
+    "date": "25/08/2024",
+    "name": "Une femme",
+    "city": "Fort-de-France",
+    "link": "<a href=\"https://la1ere.francetvinfo.fr/martinique/une-mere-de-famille-de-92-ans-tuee-par-son-fils-a-dillon-a-fort-de-france-1516985.html\">La 1ere, France TV Info</a>",
+    "lat": 14.6027962,
+    "lng": -61.0676724,
+    "age": "92"
+  },
+  {
+    "date": "04/08/2024",
+    "name": "Dominique",
+    "city": "Saint-Aubert",
+    "link": "<a href=\"https://www.lavoixdunord.fr/1495759/article/2024-08-26/un-ancien-conseiller-municipal-de-maing-mis-en-examen-pour-le-meurtre-de-son\">La voix du Nord</a>",
+    "lat": 50.2079208,
+    "lng": 3.4150951,
+    "age": "66"
+  },
+  {
+    "date": "13/08/2024",
+    "name": "Une femme",
+    "city": "Paris 11eme",
+    "link": "<a href=\"https://actu.fr/ile-de-france/paris_75056/mort-violente-d-une-femme-retrouvee-dans-son-appartement-a-paris_61487216.html\">Actu.fr</a>",
+    "lat": 48.8505539,
+    "lng": 2.3815759,
+    "age": "60"
+  },
+  {
+    "date": "28/08/2024",
+    "name": "Vanessa",
+    "city": "Metz",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/grand-est/moselle/metz/feminicide-a-metz-une-femme-mortellement-blessee-a-l-arme-blanche-son-ex-conjoint-et-sa-nouvelle-compagne-interpelles-3023732.html\">France 3 Regions</a>",
+    "lat": 49.1196964,
+    "lng": 6.1763552,
+    "age": "42"
+  },
+  {
+    "date": "27/08/2024",
+    "name": "Une femme",
+    "city": "Beaujeu",
+    "link": "<a href=\"https://www.leprogres.fr/faits-divers-justice/2024/08/31/sexagenaire-decouverte-morte-a-beaujeu-le-conjoint-ecroue-pour-meurtre\">Le Progres</a>",
+    "lat": 46.153071,
+    "lng": 4.5908435,
+    "age": "65"
+  },
+  {
+    "date": "30/08/2024",
+    "name": "Une femme",
+    "city": "Rueil-Malmaison",
+    "link": "<a href=\"https://www.tf1info.fr/justice-faits-divers/hauts-de-seine-rueil-malmaison-un-couple-retrouve-mort-a-son-domicile-une-enquete-ouverte-2317192.html\">TF1 Info </a>",
+    "lat": 48.87778,
+    "lng": 2.1802832,
+    "age": "79"
+  },
+  {
+    "date": "03/09/2024",
+    "name": "Une femme",
+    "city": "Montauban",
+    "link": "<a href=\"https://actu.fr/occitanie/montauban_82121/montauban-une-femme-de-70-ans-retrouvee-morte-dans-son-garage-son-mari-interpelle_61561808.html\">Actu.fr</a>",
+    "lat": 44.0175835,
+    "lng": 1.3549991,
+    "age": "70"
+  },
+  {
+    "date": "07/09/2024",
+    "name": "Une femme",
+    "city": "Mormant",
+    "link": "<a href=\"https://www.midilibre.fr/2024/09/08/antecedents-psychiatriques-arrestation-aveux-ce-que-lon-sait-de-lhomme-qui-a-tue-sa-femme-et-ses-deux-filles-en-seine-et-marne-12184127.php\">Midi Libre</a>",
+    "lat": 48.6066366,
+    "lng": 2.8904431,
+    "age": "36"
+  },
+  {
+    "date": "09/09/2024",
+    "name": "Une femme",
+    "city": "Limeil-Brevannes",
+    "link": "<a href=\"https://www.sudouest.fr/societe/feminicides/feminicide-dans-le-val-de-marne-un-homme-tue-son-epouse-et-tente-de-se-suicider-21324143.php\">Sud Ouest</a>",
+    "lat": 48.7489857,
+    "lng": 2.4809129,
+    "age": "27"
+  },
+  {
+    "date": "09/09/2024",
+    "name": "Une femme",
+    "city": "Chanteloup-les-Vignes",
+    "link": "<a href=\"https://www.ouest-france.fr/faits-divers/meurtres/une-femme-tuee-d-une-balle-dans-la-tete-dans-le-val-de-marne-le-tireur-en-fuite-bc8df797-7b87-4c9a-8262-390a80b6e65f\">Ouest France</a>",
+    "lat": 48.9784414,
+    "lng": 2.0302362,
+    "age": "84"
+  },
+  {
+    "date": "14/09/2024",
+    "name": "Une femme",
+    "city": "Cormontreuil",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/feminicide-a-cormontreuil-4939450\">France Bleu</a>",
+    "lat": 49.2234466,
+    "lng": 4.0534118,
+    "age": "46"
+  },
+  {
+    "date": "14/09/2024",
+    "name": "Une femme",
+    "city": "Carvin",
+    "link": "<a href=\"https://actu.fr/hauts-de-france/carvin_62215/femme-mortellement-poignardee-par-son-compagnon-a-carvin-ce-que-lon-sait_61611446.html\">Actu.fr</a>",
+    "lat": 50.4934145,
+    "lng": 2.9577519,
+    "age": "43"
+  },
+  {
+    "date": "16/09/2024",
+    "name": "Une femme",
+    "city": "Rosny-sous-Bois",
+    "link": "<a href=\"https://actu.fr/ile-de-france/rosny-sous-bois_93064/mort-d-une-jeune-femme-a-rosny-sous-bois-son-compagnon-en-garde-a-vue_61611419.html\">Actu.fr</a>",
+    "lat": 48.8716626,
+    "lng": 2.4875193,
+    "age": "26"
+  },
+  {
+    "date": "23/09/2024",
+    "name": "Philippine",
+    "city": "Paris 16eme",
+    "link": "<a href=\"https://www.francetvinfo.fr/faits-divers/paris-une-etudiante-de-19-ans-retrouvee-morte-dans-le-bois-de-boulogne_6797131.html\">France TV Info</a>",
+    "lat": 48.8401989,
+    "lng": 2.2636366,
+    "age": "19"
+  },
+  {
+    "date": "01/10/2024",
+    "name": "Becky",
+    "city": "Aubervilliers",
+    "link": "<a href=\"https://www.leparisien.fr/seine-saint-denis-93/aubervilliers-une-femme-de-40-ans-retrouvee-morte-etranglee-dans-un-appartement-02-10-2024-V4NB4ZBDVBC7THDWASR3ZZBO6E.php\">Le Parisien</a>",
+    "lat": 48.9146078,
+    "lng": 2.3821895,
+    "age": "40"
+  },
+  {
+    "date": "08/09/2024",
+    "name": "Une femme",
+    "city": "Artigues",
+    "link": "<a href=\"https://www.ouest-france.fr/societe/faits-divers/femme-retrouvee-morte-dans-le-var-un-suspect-mis-en-examen-pour-assassinat-0aaa78f2-816d-11ef-9672-b5992577815b#:~:text=Faits\">Ouest France</a>",
+    "lat": 43.0750389,
+    "lng": 0.0024053,
+    "age": "61"
+  },
+  {
+    "date": "12/10/2024",
+    "name": "Une femme",
+    "city": "Saint-Pantaleon-de-Larche",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/correze-un-homme-mis-en-examen-pour-le-meurtre-de-sa-femme-3009495\">France Bleu</a>",
+    "lat": 45.1412733,
+    "lng": 1.4456957,
+    "age": "39"
+  },
+  {
+    "date": "17/10/2024",
+    "name": "Une femme",
+    "city": "Momy",
+    "link": "<a href=\"https://www.francetvinfo.fr/societe/feminicides/pyrenees-atlantiques-enquete-ouverte-apres-un-feminicide-a-momy_6845462.html\">France TV Info</a>",
+    "lat": 43.3959577,
+    "lng": -0.1113556,
+    "age": "45"
+  },
+  {
+    "date": "19/10/2024",
+    "name": "Une femme",
+    "city": "Trelissac",
+    "link": "<a href=\"https://www.ouest-france.fr/faits-divers/feminicide/un-homme-de-90-ans-tue-sa-femme-previent-la-police-et-met-fin-a-ses-jours-pres-de-perigueux-6996d642-8e53-11ef-8390-40b2162b6ed9\">Ouest France</a>",
+    "lat": 45.1970172,
+    "lng": 0.7835042,
+    "age": "90"
+  },
+  {
+    "date": "20/10/2024",
+    "name": "Chloe",
+    "city": "Port",
+    "link": "<a href=\"https://www.ouest-france.fr/societe/faits-divers/la-reunion-une-femme-tuee-son-ex-conjoint-grievement-blesse-0d3a55d2-8ecf-11ef-8390-40b2162b6ed9\">Ouest France</a>",
+    "lat": 46.1635975,
+    "lng": 5.5710285,
+    "age": "34"
+  },
+  {
+    "date": "20/10/2024",
+    "name": "Une adolescente",
+    "city": "Rouen",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/rouen-une-jeune-femme-de-17-ans-retrouvee-morte-une-enquete-pour-assassinat-ouverte-8543455\">France Bleu</a>",
+    "lat": 49.4404591,
+    "lng": 1.0939658,
+    "age": "17"
+  },
+  {
+    "date": "20/10/2024",
+    "name": "Une femme",
+    "city": "Villepinte",
+    "link": "<a href=\"https://www.letelegramme.fr/faits-divers/en-seine-saint-denis-le-fils-dune-octogenaire-retrouvee-morte-ecroue-pour-meurtre-6689131.php\">Le telegramme</a>",
+    "lat": 43.2814917,
+    "lng": 2.0855714,
+    "age": "83"
+  },
+  {
+    "date": "24/10/2024",
+    "name": "Juliana",
+    "city": "Emerainville",
+    "link": "<a href=\"https://www.francetvinfo.fr/societe/feminicides/feminicide-en-seine-et-marne-une-femme-tuee-a-coups-de-couteau-a-son-domicile-son-mari-hospitalise-apres-s-etre-pendu_6857360.html\">France TV Info</a>",
+    "lat": 48.8115813,
+    "lng": 2.6212919,
+    "age": "41"
+  },
+  {
+    "date": "03/11/2024",
+    "name": "Une femme",
+    "city": "Louveciennes",
+    "link": "<a href=\"https://www.francetvinfo.fr/faits-divers/yvelines-le-corps-d-une-femme-retrouve-dans-la-seine-son-ex-conjoint-est-le-principal-suspect_6875768.html\">France TV Info</a>",
+    "lat": 48.8616969,
+    "lng": 2.1130641,
+    "age": "54"
+  },
+  {
+    "date": "26/10/2024",
+    "name": "Une femme",
+    "city": "Sables-d'Olonne",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/l-homme-suspecte-de-feminicide-aux-sables-d-olonne-est-mis-en-examen-et-reste-libre-sous-controle-judiciaire-9332096\">France Bleu</a>",
+    "lat": 46.4990505,
+    "lng": -1.7767859,
+    "age": "56"
+  },
+  {
+    "date": "04/11/2024",
+    "name": "Une femme",
+    "city": "Doullens",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/doullens-une-femme-retrouvee-morte-une-balle-dans-la-tete-son-conjoint-en-garde-a-vue-1144290\">France Bleu</a>",
+    "lat": 50.1572085,
+    "lng": 2.3410532,
+    "age": "19"
+  },
+  {
+    "date": "06/11/2024",
+    "name": "Isabelle",
+    "city": "Marmagne",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-et-loire/femme-poignardee-en-saone-et-loire-son-mari-l-aurait-tue-puis-tente-de-se-suicider-3056644.html\">France 3 Regions</a>",
+    "lat": 47.6218355,
+    "lng": 4.3686785,
+    "age": "65"
+  },
+  {
+    "date": "24/07/2024",
+    "name": "Une femme",
+    "city": "Saint-Laurent-du-Maroni",
+    "link": "<a href=\"https://www.franceguyane.fr/actualite/faitsdivers/un-feminicide-suivi-dun-suicide-a-albina-997234.php\">France Guyane</a>",
+    "lat": 3.94396215,
+    "lng": -53.73576941635726
+  },
+  {
+    "date": "30/07/2024",
+    "name": "Hadjer",
+    "city": "Mayenne",
+    "link": "<a href=\"https://www.ouest-france.fr/faits-divers/meurtres/un-homme-place-en-detention-provisoire-pour-le-meurtre-de-sa-compagne-a-mayenne-e8b63d46-773d-11ef-baa4-02fdc42b3515\">Ouest France</a>",
+    "lat": 48.1507819,
+    "lng": -0.6491273812007092,
+    "age": "37"
+  },
+  {
+    "date": "10/11/2024",
+    "name": "Une femme",
+    "city": "Angers",
+    "link": "<a href=\"https://www.ouest-france.fr/societe/faits-divers/une-femme-retrouvee-morte-dans-son-appartement-a-angers-un-suspect-en-garde-a-vue-a547fd4a-9f6c-11ef-84c9-4bebe8d0c332\">Ouest France</a>",
+    "lat": 47.4739884,
+    "lng": -0.5515588,
+    "age": "80"
+  },
+  {
+    "date": "12/11/2024",
+    "name": "Une femme",
+    "city": "Pertuis",
+    "link": "<a href=\"https://www.laprovence.com/article/region/51898118555201/a-pertuis-un-couple-de-retraites-retrouve-mort-a-son-domicile\">La Provence</a>",
+    "lat": 43.6951468,
+    "lng": 5.5032671,
+    "age": "85"
+  },
+  {
+    "date": "28/05/2024",
+    "name": "Une femme",
+    "city": "Monsireigne",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/vendee-suspecte-d-avoir-mortellement-renverse-sa-conjointe-un-homme-ecroue-4859638\">France Bleu</a>",
+    "lat": 46.7434072,
+    "lng": -0.9476967,
+    "age": "37"
+  },
+  {
+    "date": "24/10/2024",
+    "name": "Frida",
+    "city": "Kremlin-Bicetre",
+    "link": "<a href=\"https://www.facebook.com/story.php?story_fbid=1006332888193991&id=100064518679335&rdid=8qOBH3WYfLCTg9db\">Acceptess T</a>",
+    "lat": 48.8125893,
+    "lng": 2.3570028,
+    "age": "50"
+  },
+  {
+    "date": "19/11/2024",
+    "name": "Une femme",
+    "city": "Blois",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/blois-le-corps-d-une-femme-de-81-ans-retrouve-dans-un-sac-de-voyage-son-voisin-place-en-garde-a-vue-6539919\">France Bleu</a>",
+    "lat": 47.5876861,
+    "lng": 1.3337639,
+    "age": "81"
+  },
+  {
+    "date": "12/07/2024",
+    "name": "Agnes",
+    "city": "Beaucourt",
+    "link": "<a href=\"https://www.leparisien.fr/sentinelles/une-veritable-emprise-un-homme-condamne-a-9-ans-de-prison-pour-avoir-pousse-son-ex-compagne-au-suicide-28-11-2024-DG4WL7RRV5GDXIXAVGHDEOD5AE.php\">Le Parisien</a>",
+    "lat": 47.4851387,
+    "lng": 6.9256448,
+    "age": "57"
+  },
+  {
+    "date": "30/11/2024",
+    "name": "Une femme",
+    "city": "Ris-Orangis",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/paris-ile-de-france/essonne/un-couple-age-decede-dans-l-essonne-la-piste-d-un-feminicide-suivi-d-un-suicide-privilegiee-3069349.html\">France 3 Regions</a>",
+    "lat": 48.6538754,
+    "lng": 2.4151151,
+    "age": "94"
+  },
+  {
+    "date": "02/12/2024",
+    "name": "Adja",
+    "city": "Aulnay-sous-Bois",
+    "link": "<a href=\"https://www.ouest-france.fr/ile-de-france/aulnay-sous-bois-93600/une-femme-de-29-ans-meurt-a-aulnay-sous-bois-son-compagnon-se-rend-et-est-place-en-garde-a-vue-c20b8134-b161-11ef-bea7-257efe97c77c\">Ouest France</a>",
+    "lat": 48.934231,
+    "lng": 2.499789,
+    "age": "29"
+  },
+  {
+    "date": "02/12/2024",
+    "name": "Lison",
+    "city": "Toulouse",
+    "link": "<a href=\"https://www.ladepeche.fr/2024/12/02/info-la-depeche-feminicide-mysterieux-a-toulouse-linformaticien-a-t-il-tue-son-ex-compagne-avant-de-se-donner-la-mort-12361434.php\">La Depeche</a>",
+    "lat": 43.6044622,
+    "lng": 1.4442469,
+    "age": "23"
+  },
+  {
+    "date": "13/12/2024",
+    "name": "Ines",
+    "city": "Isle",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/mort-d-ines-a-isle-resultats-d-autopsie-incarceration-peine-encourue-que-risque-l-adolescent-mis-en-cause-pour-les-coups-mortels-3078004.html\">France 3 Regions</a>",
+    "lat": 45.8055591,
+    "lng": 1.2238259,
+    "age": "15"
+  },
+  {
+    "date": "17/12/2024",
+    "name": "Une femme",
+    "city": "Draveil",
+    "link": "<a href=\"https://www.leparisien.fr/essonne-91/essonne-une-femme-de-51-ans-tuee-a-coups-de-couteau-son-fils-place-en-garde-a-vue-18-12-2024-6GVEBR5LEVDBZOPCVQLEJC2T5A.php\">Le Parisien</a>",
+    "lat": 48.6851514,
+    "lng": 2.4083576,
+    "age": "51"
+  },
+  {
+    "date": "20/12/2024",
+    "name": "Une femme",
+    "city": "Saint-Jean-de-Monts",
+    "link": "<a href=\"https://www.ouest-france.fr/faits-divers/feminicide/meurtre-dune-femme-en-vendee-lex-conjoint-interpelle-et-place-en-garde-a-vue-88289078-c116-11ef-8528-99da018b8f86\">Ouest France</a>",
+    "lat": 46.7936111,
+    "lng": -2.0588889,
+    "age": "47"
+  },
+  {
+    "date": "21/12/2024",
+    "name": "Une femme",
+    "city": "Montjoire",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/on-est-tous-extrement-touches-un-homme-de-76-ans-tue-sa-niece-a-son-domicile-avant-de-se-donner-la-mort-3080821.html\">France 3 Regions</a>",
+    "lat": 43.7698,
+    "lng": 1.53391,
+    "age": "70"
+  },
+  {
+    "date": "25/12/2024",
+    "name": "Une femme",
+    "city": "Sissy",
+    "link": "<a href=\"https://www.aisnenouvelle.fr/id591564/article/2024-12-26/un-septuagenaire-tue-sa-femme-au-fusil-le-soir-de-noel-avant-de-retourner-larme\">Aisne Nouvelle</a>",
+    "lat": 49.8029229,
+    "lng": 3.4306763,
+    "age": "70"
+  },
+  {
+    "date": "13/01/2024",
+    "name": "Une femme",
+    "city": "Paris 17eme",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/derriere-le-meurtre-d-une-femme-dans-un-hotel-parisien-un-vaste-trafic-entre-la-france-et-le-bresil-2909258.html\">France 3 Regions</a>",
+    "lat": 48.8791008,
+    "lng": 2.28743,
+    "age": "43"
+  },
+  {
+    "date": "06/07/2024",
+    "name": "Une femme",
+    "city": "Paris 15eme",
+    "link": "<a href=\"https://www.leparisien.fr/faits-divers/le-corps-dune-femme-decouvert-dans-un-appartement-du-xve-a-paris-une-enquete-pour-meurtre-ouverte-08-07-2024-C4HDXTVZDBE2DMWXT2KAVC5WZI.php\">Le Parisien</a>",
+    "lat": 48.8370499,
+    "lng": 2.3060021,
+    "age": "40"
+  },
+  {
+    "date": "10/12/2024",
+    "name": "Barbara",
+    "city": "Avignon",
+    "link": "<a href=\"https://www.midilibre.fr/2025/01/05/meurtre-et-actes-de-torture-sur-barbara-24-ans-a-avignon-un-suspect-arrete-apres-des-semaines-de-traque-a-1-200-km-du-lieu-du-crime-12427865.php\">Midi Libre</a>",
+    "lat": 43.9492493,
+    "lng": 4.8059012,
+    "age": "24"
+  },
+  {
+    "date": "13/08/2024",
+    "name": "Une femme",
+    "city": "Le Mans",
+    "link": "<a href=\"https://actu.fr/pays-de-la-loire/le-mans_72181/recherche-pour-le-meurtre-dune-jeune-femme-en-sarthe-il-est-arrete-en-belgique_62097039.html\">Actu.fr</a>",
+    "lat": 48.0073849,
+    "lng": 0.1967849,
+    "age": "26"
+  },
+  {
+    "date": "21/06/2024",
+    "name": "Laure",
+    "city": "Urrugne",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/bayonne/disparition-de-laure-zacchello-des-traces-de-plomb-decouvertes-sur-les-vetements-de-son-mari-soupconne-du-meurtre-de-son-epouse-3107353.html\">France 3 Regions</a>",
+    "lat": 43.3624715,
+    "lng": -1.7003017,
+    "age": "43"
+  },
+  {
+    "date": "09/08/2024",
+    "name": "Mme W",
+    "city": "Paris 13eme",
+    "link": "<a href=\"\">Medecins du Monde</a>",
+    "lat": 48.8255921,
+    "lng": 2.3503376
+  },
+  {
+    "date": "18/01/2023",
+    "name": "Virginie",
+    "city": "Malakoff, Hauts-de-Seine",
+    "link": "<a href=\"https://www.leparisien.fr/hauts-de-seine-92/malakoff-une-femme-decouverte-dans-un-bain-de-sang-19-01-2023-DKMTF5TJ5BGLRAXMHYT327CTZM.php\">Le Parisien</a> - <a href=\"https://actu.fr/ile-de-france/malakoff_92046/femme-poignardee-a-mort-a-malakoff-le-fils-de-la-victime-place-en-garde-a-vue_56780245.html\">Actu.fr</a> - <a href=\"https://www.femmeactuelle.fr/actu/news-actu/hauts-de-seine-une-femme-poignardee-a-mort-son-fils-incarcere-2148897\">Femme actuelle</a>",
+    "lat": 48.8211559,
+    "lng": 2.3019814,
+    "age": "46"
+  },
+  {
+    "date": "08/01/2023",
+    "name": "Valerie",
+    "city": "Arques, Pas-de-Calais",
+    "link": "<a href=\"https://www.20minutes.fr/faits_divers/4020298-20230124-calais-compagnon-femme-poignardee-mort-mis-examen-assassinat\">20 minutes</a>",
+    "lat": 50.7396639,
+    "lng": 2.3062068,
+    "age": "52"
+  },
+  {
+    "date": "22/01/2023",
+    "name": "Catherine",
+    "city": "Pont-Pean, Ille-et-Vilaine",
+    "link": "<a href=\"https://www.ouest-france.fr/faits-divers/feminicide/meurtre-d-une-femme-de-47-ans-pres-de-rennes-ce-que-l-on-sait-155d6e84-9a9d-11ed-adcc-a9a961390ac1\">Ouest France</a> - <a href=\"https://www.letelegramme.fr/ille-et-vilaine/rennes/a-pont-pean-un-homme-interpelle-apres-la-decouverte-du-corps-de-sa-compagne-22-01-2023-13264036.php\">Le Telegramme</a> - <a href=\"https://www.francebleu.fr/infos/faits-divers-justice/pont-pean-un-homme-arrete-apres-la-decouverte-du-corps-de-sa-conjointe-6897171\">France Bleu</a>",
+    "lat": 48.0131094,
+    "lng": -1.7023101,
+    "age": "47"
+  },
+  {
+    "date": "22/01/2023",
+    "name": "Angelique",
+    "city": "Saint-Brieuc, Cotes d'Armor",
+    "link": "<a href=\"https://www.ouest-france.fr/bretagne/saint-brieuc-22000/saint-brieuc-un-pere-tue-sa-fille-et-sa-compagne-avant-de-se-suicider-77690eae-9a8d-11ed-a55d-99abe492fe96\">Ouest France</a> - <a href=\"https://www.liberation.fr/societe/police-justice/saint-brieuc-un-homme-tue-sa-fille-de-3-ans-et-sa-compagne-de-22-ans-avant-de-se-suicider-20230122_PBZAWEGJ4NCEFH2BEACMRQ72ZU/\">Liberation</a> - <a href=\"https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/saint-brieuc-un-homme-tue-par-arme-a-feu-sa-fillette-et-sa-compagne-puis-se-suicide-2699134.html\">France 3</a> - <a href=\"https://www.tf1info.fr/justice-faits-divers/feminicide-a-saint-brieuc-il-tue-sa-compagne-et-sa-fille-avant-de-se-suicider-2245791.html\">TF1</a> - <a href=\"https://www.ouest-france.fr/faits-divers/feminicide/feminicide-et-infanticide-a-saint-brieuc-j-ai-entendu-des-cris-et-des-appels-a-l-aide-9cc3f396-9a8b-11ed-a55d-99abe492fe96\">Ouest France (suite)</a>",
+    "lat": 48.5141134,
+    "lng": -2.7603283,
+    "age": "22"
+  },
+  {
+    "date": "24/01/2023",
+    "name": "Eva",
+    "city": "Lempdes, Puy-de-Dome",
+    "link": "<a href=\"https://rmc.bfmtv.com/actualites/police-justice/puy-de-dome-une-femme-de-20-ans-tuee-par-son-compagnon-le-suspect-arrete_AN-202301250127.html\">RMC</a> - <a href=\"https://www.lamontagne.fr/clermont-ferrand-63000/actualites/l-auteur-presume-de-l-homicide-conjugal-de-lempdes-evoque-un-tir-accidentel_14252764/\">La montagne</a> - <a href=\"https://www.bienpublic.com/faits-divers-justice/2023/01/25/une-jeune-femme-tuee-par-balle-son-compagnon-interpelle\">Bien public</a>",
+    "lat": 45.769032,
+    "lng": 3.1979033,
+    "age": "20"
+  },
+  {
+    "date": "27/01/2023",
+    "name": "Mongia",
+    "city": "Saint-Etienne-du-Rouvray, Seine-Maritime",
+    "link": "<a href=\"https://actu.fr/normandie/saint-etienne-du-rouvray_76575/feminicide-a-saint-etienne-du-rouvray-il-tue-sa-compagne-et-se-rend-a-la-police_56929873.html\">Actu.fr</a> - <a href=\"https://france3-regions.francetvinfo.fr/normandie/seine-maritime/rouen/feminicide-un-homme-de-78-ans-vient-reconnaitre-le-meurtre-de-sa-femme-a-la-maison-du-citoyen-2702874.html\">France 3 regions</a> - <a href=\"https://www.ouest-france.fr/faits-divers/feminicide/feminicide-pres-de-rouen-un-homme-se-rend-au-commissariat-et-s-accuse-du-meurtre-de-sa-compagne-3306f6f8-9e44-11ed-94dd-04728d451a97\">Ouest France</a> - <a href=\"https://www.ouest-france.fr/faits-divers/feminicide/feminicide-pres-de-rouen-un-homme-se-rend-au-commissariat-et-s-accuse-du-meurtre-de-sa-compagne-3306f6f8-9e44-11ed-94dd-04728d451a97\">Ouest France (suite)</a> - <a href=\"https://www.lefigaro.fr/faits-divers/un-septuagenaire-soupconne-d-avoir-tue-son-epouse-a-coups-de-casserole-20230127\">Le Figaro</a>",
+    "lat": 49.3831,
+    "lng": 1.09163,
+    "age": "73"
+  },
+  {
+    "date": "19/01/2023",
+    "name": "Catherine",
+    "city": "Paris",
+    "link": "<a href=\"https://www.tf1info.fr/justice-faits-divers/soupcons-de-feminicide-a-paris-une-femme-mortellement-empoisonnee-au-mercure-son-ex-interpelle-2246198.html\">TF1 info</a> - <a href=\"https://www.leparisien.fr/faits-divers/catherine-a-t-elle-ete-empoisonnee-au-mercure-un-homme-en-garde-a-vue-apres-un-meurtre-mysterieux-a-paris-25-01-2023-WX45B22VFJFLJCHBV5UXRA3HGM.php\">Le Parisien</a> - <a href=\"https://www.laprovence.com/actu/en-direct/78643603644066/paris-un-homme-ecroue-pour-lempoisonnement-mortel-de-son-ex-compagne\">La Provence</a> - <a href=\"https://www.rtl.fr/actu/justice-faits-divers/soupcons-de-feminicide-a-paris-un-homme-ecroue-pour-avoir-mortellement-empoisonne-son-ex-compagne-7900229332\">RTL</a>",
+    "lat": 48.8588897,
+    "lng": 2.3200410217200766,
+    "age": "46"
+  },
+  {
+    "date": "28/01/2023",
+    "name": "Magdalena",
+    "city": "Limoges, Haute-Vienne",
+    "link": "<a href=\"https://www.20minutes.fr/faits_divers/4021048-20230129-limoges-jeune-femme-tuee-balle-tete-compagnon-ur-garde-vue\">20 minutes</a> - <a href=\"https://www.leparisien.fr/faits-divers/haute-vienne-une-femme-tuee-par-balle-a-limoges-son-compagnon-et-sa-soeur-en-garde-a-vue-29-01-2023-UIMQYZ7BCNH4RMYGG2DPXOB7HM.php\">Le Parisien</a> - <a href=\"https://www.lefigaro.fr/faits-divers/limoges-une-femme-tuee-d-une-balle-dans-la-tete-par-son-compagnon-20230129\">Le Figaro</a>",
+    "lat": 45.8354243,
+    "lng": 1.2644847,
+    "age": "30"
+  },
+  {
+    "date": "02/02/2023",
+    "name": "Sihem",
+    "city": "Salles-du-Gardon, Gard",
+    "link": "<a href=\"https://www.francetvinfo.fr/faits-divers/disparition-de-sihem-dans-le-gard-la-jeune-fille-retrouvee-morte-cette-nuit-le-principal-suspect-est-passe-aux-aveux_5635847.html\">France TV info</a> - <a href=\"https://www.leparisien.fr/faits-divers/la-jeune-sihem-retrouvee-morte-dans-une-foret-02-02-2023-OMLU73UDWZH4DLIDV3A4XPKZDQ.php\">Le Parisien</a> - <a href=\"https://www.ladepeche.fr/2023/02/02/disparition-de-sihem-dans-le-gard-la-jeune-fille-est-morte-son-corps-a-ete-retrouve-10968974.php\">La Depeche</a>",
+    "lat": 44.1969162,
+    "lng": 4.0450517,
+    "age": "18"
+  },
+  {
+    "date": "02/02/2023",
+    "name": "Marie-Camille",
+    "city": "Gros-Morne, Martinique",
+    "link": "<a href=\"https://la1ere.francetvinfo.fr/martinique/une-jeune-femme-tuee-par-balle-au-gros-morne-l-ex-concubin-est-soupconne-1362950.html\">La 1ere</a> - <a href=\"https://www.bfmtv.com/police-justice/martinique-une-femme-tuee-par-balle-son-ex-compagnon-interpelle_AD-202302020725.html\">BFM TV</a> - <a href=\"https://www.rci.fm/martinique/infos/Faits-divers/Feminicide-presume-la-femme-blessee-au-Gros-Morne-est-decedee\">RCI</a>",
+    "lat": 14.709959,
+    "lng": -61.0060107,
+    "age": "37"
+  },
+  {
+    "date": "06/02/2023",
+    "name": "Laurence",
+    "city": "Gujan-Mestras, Gironde",
+    "link": "<a href=\"https://www.sudouest.fr/gironde/gujan-mestras/les-autopsies-confirment-le-feminicide-apres-le-drame-a-gujan-mestras-en-gironde-13991289.php\">Sud-Ouest</a> - <a href=\"https://www.ouest-france.fr/nouvelle-aquitaine/gironde/gironde-un-couple-decouvert-mort-la-piste-du-feminicide-suivi-de-suicide-privilegiee-20991bcc-a655-11ed-acf1-1f171930b7f8\">Ouest France</a>",
+    "lat": 44.6360982,
+    "lng": -1.0714014,
+    "age": "47"
+  },
+  {
+    "date": "06/02/2023",
+    "name": "Marina",
+    "city": "Les Loges-Marchis, Manche",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/manche-il-tue-sa-femme-par-peur-qu-elle-le-quitte-8782096\">France Bleu</a> - <a href=\"https://france3-regions.francetvinfo.fr/normandie/manche/une-femme-tuee-par-son-mari-aux-loges-marchis-dans-le-sud-manche-2709666.html\">France 3 Regions</a>",
+    "lat": 48.5419527,
+    "lng": -1.0879372,
+    "age": "45"
+  },
+  {
+    "date": "11/02/2023",
+    "name": "Flora",
+    "city": "Bondy, Seine-St-Denis",
+    "link": "<a href=\"https://www.leparisien.fr/seine-saint-denis-93/bondy-93140/mon-mari-va-me-tuer-a-bondy-une-enquete-ouverte-pour-homicide-par-conjoint-apres-le-deces-dune-femme-12-02-2023-YOVOOOT3YBBTBAO6J5HTFXKOKI.php\">Le Parisien</a> - <a href=\"https://www.ouest-france.fr/societe/faits-divers/seine-saint-denis-un-homme-soupconne-d-avoir-tue-sa-compagne-interpelle-a-bondy-2557f136-aaf3-11ed-a5ee-f7f859d914cd\">Ouest France</a> - <a href=\"https://www.francetvinfo.fr/societe/violences-faites-aux-femmes/seine-saint-denis-un-homme-place-en-garde-a-vue-soupconne-du-meurtre-de-sa-femme-a-bondy_5654960.html\">France TV Info</a> - <a href=\"https://www.ledauphine.com/faits-divers-justice/2023/02/12/un-homme-soupconne-d-avoir-tue-sa-femme-arrete-a-bondy\">Le Dauphine</a>",
+    "lat": 48.9031,
+    "lng": 2.48291,
+    "age": "34"
+  },
+  {
+    "date": "13/02/2023",
+    "name": "Neda",
+    "city": "Sevran, Seine-St-Denis",
+    "link": "<a href=\"https://www.ouest-france.fr/faits-divers/feminicide/seine-saint-denis-une-femme-de-51-ans-tuee-a-larme-blanche-son-compagnon-en-garde-a-vue-eb54dfca-abb1-11ed-b416-85851c2fbb45\">Ouest France</a> - <a href=\"https://www.varmatin.com/faits-divers/une-femme-tuee-a-larme-blanche-son-compagnon-en-garde-a-vue-en-seine-saint-denis-827926\">Var Matin</a> - <a href=\"https://www.leparisien.fr/seine-saint-denis-93/sevran-une-femme-poignardee-a-mort-par-son-conjoint-dans-une-chambre-dhotel-13-02-2023-MNKYQ5ALXBBODMPPTVBUAXWBNE.php\">Le Parisien</a>",
+    "lat": 48.937634,
+    "lng": 2.5298164,
+    "age": "51"
+  },
+  {
+    "date": "07/02/2023",
+    "name": "Severine",
+    "city": "Yvetot, Seine-Maritime",
+    "link": "<a href=\"https://www.paris-normandie.fr/id386436/article/2023-02-08/yvetot-une-femme-brulee-entre-la-vie-et-la-mort-lincendie-etait-il-volontaire\">Paris-Normandie</a> - <a href=\"https://www.paris-normandie.fr/id386748/article/2023-02-09/mort-de-la-femme-brulee-vive-yvetot-son-compagnon-reste-en-garde-vue\">Paris-Normandie (suite)</a> - <a href=\"https://www.francebleu.fr/infos/faits-divers-justice/incendie-a-yvetot-la-femme-de-43-ans-gravement-brulee-est-morte-a-l-hopital-3502397\">France Bleu</a> - <a href=\"https://www.ouest-france.fr/societe/faits-divers/femme-brulee-vive-a-yvetot-mis-en-examen-le-conjoint-de-la-victime-nie-le-feminicide-906586f2-a92a-11ed-8143-2a8717a808f3\">Ouest France</a>",
+    "lat": 49.6179384,
+    "lng": 0.7538866,
+    "age": "43"
+  },
+  {
+    "date": "14/02/2023",
+    "name": "Laure",
+    "city": "Lisieux, Calvados",
+    "link": "<a href=\"https://www.tf1info.fr/justice-faits-divers/feminicide-dans-le-calvados-une-femme-de-28-ans-retrouvee-morte-a-son-domicile-2248288.html\">TF1 Info</a> - <a href=\"https://www.francebleu.fr/infos/faits-divers-justice/une-femme-de-27-ans-tuee-par-arme-blanche-a-lisieux-5157239\">France Bleu</a>",
+    "lat": 49.1460831,
+    "lng": 0.2255168,
+    "age": "28"
+  },
+  {
+    "date": "25/01/2023",
+    "name": "Sophie",
+    "city": "Montpellier, Herault",
+    "link": "<a href=\"https://www.lagazettedemontpellier.fr/live/63efae0f45ec03559d07e37a/montpellier-soupconne-d-avoir-maquille-le-meurtre-de-sa-femme-en-suicide-un-homme-ecroue\">La Gazette de Montpellier</a> - <a href=\"https://www.francetvinfo.fr/faits-divers/montpellier-un-homme-soupconne-d-avoir-maquille-le-meurtre-de-sa-femme-en-suicide_5664848.html\">France TV Info</a> - <a href=\"https://actu.fr/occitanie/montpellier_34172/mystere-a-montpellier-un-retraite-a-t-il-maquille-un-feminicide-en-suicide_57485398.html\">Actu.fr</a>",
+    "lat": 43.6112422,
+    "lng": 3.8767337,
+    "age": "47"
+  },
+  {
+    "date": "20/02/2023",
+    "name": "Une femme",
+    "city": "Boulogne Billancourt, Hauts-de-Seine",
+    "link": "<a href=\"https://www.lefigaro.fr/flash-actu/hauts-de-seine-un-couple-retrouve-mort-a-son-domicile-20230221\">Le Figaro</a> - <a href=\"https://www-francebleu-fr.cdn.ampproject.org/v/s/www.francebleu.fr/amp/infos/faits-divers-justice/hauts-de-seine-une-femme-et-son-conjoint-retrouves-morts-a-leur-domicile-de-boulogne-billancourt-9075960?amp_gsa=1&amp_js_v=a9&usqp=mq331AQKKAFQArABIIACAw%3D%3D#amp_tf=Source%C2%A0%3A%20%251%24s&aoh=16771639607378&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.francebleu.fr%2Finfos%2Ffaits-divers-justice%2Fhauts-de-seine-une-femme-et-son-conjoint-retrouves-morts-a-leur-domicile-de-boulogne-billancourt-9075960\">France Bleu</a>",
+    "lat": 48.8356649,
+    "lng": 2.240206,
+    "age": "~40"
+  },
+  {
+    "date": "13/02/2023",
+    "name": "Assia",
+    "city": "Paris",
+    "link": "<a href=\"https://www.leparisien.fr/faits-divers/paris-un-morceau-de-corps-humain-decouvert-dans-un-sac-aux-buttes-chaumont-13-02-2023-4S56OQOQRVAYRP7HNBCTG2GLTY.php%20\">Le Parisien</a> - <a href=\"https://www.20minutes.fr/faits_divers/4023676-20230214-tronc-retrouve-buttes-chaumont-autres-restes-humains-decouverts-pres-ancienne-voie-ferree%20\">20 Minutes</a> - <a href=\"https://www.bfmtv.com/paris/femme-decoupee-retrouvee-aux-buttes-chaumont-les-enqueteurs-s-interrogent-sur-les-incoherences-de-son-mari_AN-202302160695.html%20\">BFM TV</a> - <a href=\"https://www.20minutes.fr/faits_divers/4024794-20230221-corps-retrouve-buttes-chaumont-zones-ombre-demeurent-autour-mort-assia%20\">20 Minutes (suite)</a> - <a href=\"https://www.leparisien.fr/faits-divers/corps-dassia-retrouve-demembre-aux-buttes-chaumont-le-mari-place-en-garde-a-vue-23-02-2023-A7443GPXRFAXHA6LRE2XTFJINQ.php\">Le Parisien (suite)</a> - <a href=\"https://www.liberation.fr/societe/police-justice/buttes-chaumont-le-mari-dassia-m-retrouvee-morte-dans-le-parc-a-avoue-lavoir-tuee-20230224_OORDZQAAHZDVFH7BYMUOZJIWFI/\">Liberation</a> - <a href=\"https://www.francetvinfo.fr/faits-divers/corps-d-une-femme-retrouve-demembre-aux-buttes-chaumont-le-mari-de-la-victime-est-passe-aux-aveux_5677658.html\">France TV info</a>",
+    "lat": 48.8588897,
+    "lng": 2.3200410217200766,
+    "age": "46"
+  },
+  {
+    "date": "22/02/2023",
+    "name": "Marie-Antoinette",
+    "city": "Cabries, Bouches-du-Rhone",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/deux-septuagenaires-tues-par-balle-dans-un-pavillon-de-cabries-2412033\">France Bleu</a> - <a href=\"https://www.laprovence.com/actu/en-direct/1818396692117916/un-couple-de-personnes-agees-retrouve-mort-par-balle-a-cabries\">La Provence</a> - <a href=\"https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/cabries-un-homme-tue-sa-femme-et-se-suicide-2720154.html\">France TV Info</a> - <a href=\"https://www.maritima.info/depeches/faits-divers/marseille/87544/cabries-un-couple-de-septuagenaires-retrouve-mort-hier-dans-un-lotissement.html\">Maritima</a>",
+    "lat": 43.4411965,
+    "lng": 5.3798882,
+    "age": "75"
+  },
+  {
+    "date": "25/02/2023",
+    "name": "Elisa",
+    "city": "Prunelli-di-Fiumorbo, Haute-Corse",
+    "link": "<a href=\"https://www.leparisien.fr/faits-divers/haute-corse-un-homme-et-une-femme-tues-par-balles-25-02-2023-CLZSMFVSIJF4BLKR5Y2WM3FVCA.php\">Le Parisien</a> - <a href=\"https://www.alta-frequenza.corsica/actu/double_meurtre_de_prunelli_di_fiumorbu_un_suspect_activement_recherche_114567\">Alta Frequenza</a> - <a href=\"https://www.corsematin.com/articles/deux-morts-par-arme-a-feu-a-prunelli-di-fiumorbo-le-suspect-arrete-138185\">Corse Matin</a> - <a href=\"https://www.corsematin.com/articles/on-en-sait-plus-sur-le-double-meurtre-de-prunelli-di-fiumorbo-138226\">Corse matin (suite)</a>",
+    "lat": 42.0105024,
+    "lng": 9.3246227,
+    "age": "24"
+  },
+  {
+    "date": "02/03/2023",
+    "name": "Une femme",
+    "city": "Melun, Seine-et-Marne",
+    "link": "<a href=\"https://actu.fr/ile-de-france/melun_77288/couple-retrouve-mort-a-melun-la-piste-du-feminicide-et-du-suicide_57794637.html\">Actu.fr</a> - <a href=\"https://www.leparisien.fr/seine-et-marne-77/melun-il-se-jette-du-8e-etage-apres-avoir-tue-sa-femme-03-03-2023-7VSNNXDRBRGULMF56ZZ3OENPVA.php\">Le Parisien</a> - <a href=\"https://www.varmatin.com/faits-divers/feminicide-en-seine-et-marne-une-femme-tuee-a-coups-de-couteau-son-compagnon-defenestre-831961?utm_content=link&utm_term=Var_Matin&utm_campaign=twitter&utm_source=nonli&utm_medium=Social%20media\">Var Matin</a> - <a href=\"https://www.20minutes.fr/paris/4026220-20230303-feminicide-seine-marne-femme-tuee-coups-couteau-compagnon-defenestre\">20 Minutes</a>",
+    "lat": 48.539927,
+    "lng": 2.6608169,
+    "age": "53"
+  },
+  {
+    "date": "03/03/2023",
+    "name": "Une femme",
+    "city": "Saint-Laurent-d’Arce, Gironde",
+    "link": "<a href=\"https://www.sudouest.fr/faits-divers/feminicide-une-femme-tuee-a-l-arme-blanche-par-son-ancien-compagnon-en-gironde-14278316.php\">Sud Ouest</a> - <a href=\"https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/libourne/feminicide-en-gironde-une-femme-de-54-ans-meurt-poignardee-chez-elle-a-saint-laurent-d-arce-son-ex-compagnon-retrouve-pendu-dans-son-garage-2725630.html\">France 3 regions</a> - <a href=\"https://www.francebleu.fr/infos/faits-divers-justice/gironde-une-femme-tuee-par-son-ex-compagnon-a-saint-laurent-d-arce-2329474\">France Bleu</a> - <a href=\"https://www.francetvinfo.fr/faits-divers/gironde-une-femme-tuee-chez-elle-par-son-ex-conjoint-l-homme-avait-deja-ete-lourdement-condamne-pour-violences_5691131.html\">France TV Info</a> - <a href=\"https://www.bfmtv.com/police-justice/gironde-un-homme-tue-son-ex-compagne-avant-de-se-suicider_AD-202303030699.html\">BFM TV</a> - <a href=\"https://www.sudouest.fr/faits-divers/feminicide-une-femme-tuee-a-l-arme-blanche-par-son-ancien-compagnon-en-gironde-14278316.php\">Sud Ouest (suite)</a> - <a href=\"https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/libourne/feminicide-en-gironde-une-femme-de-54-ans-meurt-poignardee-chez-elle-a-saint-laurent-d-arce-son-ex-compagnon-retrouve-pendu-dans-son-garage-2725630.html\">France 3 regions (suite)</a> - <a href=\"https://www.lemonde.fr/societe/article/2023/03/04/feminicide-en-gironde-gerald-darmanin-demande-une-enquete-de-l-iggn_6164138_3224.html#xtor=AL-32280270-%5Bdefault%5D-%5Bandroid%5D\">Le Monde</a> - <a href=\"https://www.huffingtonpost.fr/faits-divers/article/un-feminicide-a-saint-laurent-d-arce-en-gironde-l-auteur-avait-un-tres-lourd-passif_214808.html?fbclid=IwAR3gF-RBFOJFsPbteyCA3Z4dl78bnVKjnYoHC0Dk5P7CWhQy3O1GghgFIBU\">Huffington Post</a>",
+    "lat": 45.0353333,
+    "lng": -0.4713262,
+    "age": "54"
+  },
+  {
+    "date": "03/03/2023",
+    "name": "Fathia",
+    "city": "Amiens, Somme",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/une-femme-tuee-a-amiens-par-son-ex-conjoint-contre-qui-elle-avait-porte-plainte-6308772\">France Bleu</a> - <a href=\"https://www.courrier-picard.fr/id393358/article/2023-03-04/une-femme-tuee-vendredi-soir-amiens-par-son-ex-conjoint\">Courrier Picard</a>",
+    "lat": 49.8941708,
+    "lng": 2.2956951,
+    "age": "27"
+  },
+  {
+    "date": "03/03/2023",
+    "name": "Nelly",
+    "city": "Coulans-sur-Gee",
+    "link": "<a href=\"https://www.ouest-france.fr/pays-de-la-loire/coulans-sur-gee-72550/a-coulans-sur-gee-les-investigations-se-poursuivent-pour-savoir-qui-a-tue-nelly-1493fb66-ba6f-11ed-ac58-093bfdf15bd5\">Ouest-France</a>",
+    "lat": 48.0203044,
+    "lng": 0.0086737,
+    "age": "50"
+  },
+  {
+    "date": "06/03/2023",
+    "name": "Hadas",
+    "city": "Poitiers",
+    "link": "<a href=\"https://www.leparisien.fr/faits-divers/vienne-un-homme-mis-en-examen-pour-homicide-sur-sa-conjointe-defenestree-08-03-2023-CK3ZIPDHOJC5RP5OR25FLZEFA4.php\">Le Parisien</a>",
+    "lat": 46.5802596,
+    "lng": 0.340196,
+    "age": "39"
+  },
+  {
+    "date": "09/03/2023",
+    "name": "Nadege",
+    "city": "Bethune",
+    "link": "<a href=\"https://www.lavoixdunord.fr/1300642/article/2023-03-09/bethune-une-femme-tuee-par-son-ex-conjoint-sous-les-yeux-de-sa-fille\">La voix du Nord</a>",
+    "lat": 50.5309351,
+    "lng": 2.6389115,
+    "age": "48"
+  },
+  {
+    "date": "13/03/2023",
+    "name": "Isabelle",
+    "city": "Lamothe-Capdeville",
+    "link": "<a href=\"https://www.tf1info.fr/justice-faits-divers/feminicide-lamothe-capdeville-tarn-et-garonne-une-femme-de-36-ans-retrouvee-morte-son-conjoint-en-garde-a-vue-2250885.html\">TF1 Info</a>",
+    "lat": 44.0761111,
+    "lng": 1.3708333,
+    "age": "36"
+  },
+  {
+    "date": "16/03/2023",
+    "name": "Mathilda",
+    "city": "Ronquerolles",
+    "link": "<a href=\"https://www.leparisien.fr/val-d-oise-95/val-doise-une-policiere-retrouvee-morte-a-son-domicile-son-conjoint-interpelle-16-03-2023-6NGEQAKDSJC4FHSHJRAUSLWQXE.php\">Le Parisien</a>",
+    "lat": 49.1711096,
+    "lng": 2.2066479,
+    "age": "34"
+  },
+  {
+    "date": "20/03/2023",
+    "name": "Cecile",
+    "city": "Paris 12eme",
+    "link": "<a href=\"https://www.leparisien.fr/faits-divers/paris-mort-dune-femme-agressee-au-couteau-dans-le-12e-arrondissement-20-03-2023-PEJ7SFFPHBHMNKYF677KPQCIRM.php%20@leparisien\">Le Parisien</a>",
+    "lat": 48.8505539,
+    "lng": 2.3815759,
+    "age": "48"
+  },
+  {
+    "date": "22/03/2023",
+    "name": "Francisca",
+    "city": "Lagardelle",
+    "link": "<a href=\"https://www.20minutes.fr/faits_divers/4029064-20230322-lot-homme-soupconne-avoir-abattu-femme-avant-mettre-fin-jours%20@20minutesfrance\">20 minutes</a>",
+    "lat": 44.4919739,
+    "lng": 1.1696221,
+    "age": "47"
+  },
+  {
+    "date": "01/04/2023",
+    "name": "Une femme",
+    "city": "Bois-Guillaume",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/la-piste-du-feminicide-privilegiee-a-bois-guillaume-la-victime-avait-porte-plainte-contre-son-concubin-3923086\">France Bleue</a>",
+    "lat": 49.4704819,
+    "lng": 1.1199476,
+    "age": "40"
+  },
+  {
+    "date": "06/04/2023",
+    "name": "Sandra",
+    "city": "Marseille",
+    "link": "<a href=\"https://www.francetvinfo.fr/marseille/marseille-un-septuagenaire-arrete-pour-la-sequestration-suivie-de-la-mort-de-sa-fille_5757584.html#xtor=CS2-765-%5Bautres%5D-\">FranceTV Info</a>",
+    "lat": 43.2961743,
+    "lng": 5.3699525,
+    "age": "36"
+  },
+  {
+    "date": "11/04/2023",
+    "name": "Une femme",
+    "city": "Tours",
+    "link": "<a href=\"https://www.lanouvellerepublique.fr/tours/tours-un-homme-tue-sa-fille-a-coups-de-couteau?fbclid=IwAR0yTqfbuCcNg_ZmDidXAqXYzc-fJvSvGxbwnohHxogLHCWvpsZJIh8aJB0\">La Nouvelle Republique</a>",
+    "lat": 47.3900474,
+    "lng": 0.6889268,
+    "age": "22"
+  },
+  {
+    "date": "20/04/2023",
+    "name": "Une femme",
+    "city": "Le Mans",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/une-femme-de-26-ans-retrouvee-morte-dans-un-appartement-rue-gambetta-au-mans-7028501\">FranceBleu</a> - <a href=\"\"></a>",
+    "lat": 48.0073849,
+    "lng": 0.1967849,
+    "age": "26"
+  },
+  {
+    "date": "21/04/2023",
+    "name": "Nisrine",
+    "city": "Argenteuil",
+    "link": "<a href=\"https://www.bfmtv.com/paris/val-d-oise-une-femme-retrouvee-morte-poignardee-a-argenteuil-un-homme-interpelle_AD-202304210864.html\">BFM</a>",
+    "lat": 48.9479069,
+    "lng": 2.2481797,
+    "age": "25"
+  },
+  {
+    "date": "25/04/2023",
+    "name": "Rose",
+    "city": "Rambervillers",
+    "link": "<a href=\"https://www.francetvinfo.fr/faits-divers/fillette-retrouvee-morte-dans-les-vosges-ce-que-l-on-sait-apres-la-decouverte-du-corps-d-une-enfant-de-5-ans-dans-un-appartement-de-rambervillers_5792351.html\">France Info TV</a>",
+    "lat": 48.3466306,
+    "lng": 6.6361176,
+    "age": "5"
+  },
+  {
+    "date": "28/01/2023",
+    "name": "Helena",
+    "city": "Argol",
+    "link": "<a href=\"https://www.letelegramme.fr/dossiers/disparition-dhelena-cluyou-a-brest/le-corps-retrouve-jeudi-a-argol-est-bien-celui-d-helena-cluyou-video-11-02-2023-13277196.ph\">Le Telegramme </a>",
+    "lat": 48.2461346,
+    "lng": -4.3173536,
+    "age": "20"
+  },
+  {
+    "date": "29/04/2023",
+    "name": "Corinne",
+    "city": "Dun-Sur-Auron",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/centre-val-de-loire/cher/corps-decouvert-calcine-a-dun-sur-auron-le-suspect-mis-en-examen-pour-homicide-volontaire-par-conjoint-et-incarcere-2767066.html\">France 3</a>",
+    "lat": 46.8853506,
+    "lng": 2.5696977,
+    "age": "64"
+  },
+  {
+    "date": "05/05/2023",
+    "name": "Une femme",
+    "city": "Salles-du-Gardon",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/occitanie/gard/ales/double-meurtre-dans-le-gard-2-femmes-tuees-a-l-arme-blanche-aux-salles-du-gardon-un-homme-s-est-rendu-a-la-police-2767866.html\">France 3</a>",
+    "lat": 44.1969162,
+    "lng": 4.0450517,
+    "age": "28"
+  },
+  {
+    "date": "05/05/2023",
+    "name": "Une femme",
+    "city": "Salles-du-Gardon",
+    "link": "<a href=\"https://www.bfmtv.com/police-justice/gard-deux-femmes-tuees-a-coups-de-couteau-un-suspect-place-en-garde-a-vue_AD-202305060146.html\">BFMTV</a>",
+    "lat": 44.1969162,
+    "lng": 4.0450517,
+    "age": "38"
+  },
+  {
+    "date": "24/01/2023",
+    "name": "Manon",
+    "city": "Digne-les-Bains",
+    "link": "<a href=\"https://www.laprovence.com/article/region/1569666457842716/digne-les-bains-un-couple-retrouve-mort-dans-un-appartement?amp=\">La Provence</a>",
+    "lat": 44.0918144,
+    "lng": 6.2351431,
+    "age": "22"
+  },
+  {
+    "date": "23/02/2023",
+    "name": "Nadine",
+    "city": "Erdeven",
+    "link": "<a href=\"https://www.ouest-france.fr/faits-divers/meurtres/meurtre-dans-le-morbihan-dernier-hommage-pour-nadine-avrial-une-epouse-une-mere-aimante-0f968cca-bc11-11ed-93e6-c3ff03e7738c%20@ouestfrance\">Ouest france</a>",
+    "lat": 47.6417056,
+    "lng": -3.1557523,
+    "age": "63"
+  },
+  {
+    "date": "11/05/2023",
+    "name": "Une femme",
+    "city": "Lys-lez-Lannoy",
+    "link": "<a href=\"https://www.lavoixdunord.fr/1326668/article/2023-05-12/lys-lez-lannoy-une-femme-tuee-coupsde-couteau-son-conjoint-tente-de-se-suicider \">La Voix du Nord</a>",
+    "lat": 50.6713,
+    "lng": 3.21621,
+    "age": "42"
+  },
+  {
+    "date": "12/05/2023",
+    "name": "Chloe",
+    "city": "Courbevoie",
+    "link": "<a href=\"https://www.leprogres.fr/faits-divers-justice/2023/05/12/une-fillette-meurt-egorgee-au-domicile-de-ses-parents \">Le Progres</a>",
+    "lat": 48.8953328,
+    "lng": 2.2561602,
+    "age": "5"
+  },
+  {
+    "date": "13/05/2023",
+    "name": "Une femme",
+    "city": "Saint-Dionisy",
+    "link": "<a href=\"https://www.20minutes.fr/societe/4036811-20230513-gard-homme-commet-double-meurtre-puis-suicide \">20 Minutes</a>",
+    "lat": 43.8050023,
+    "lng": 4.2280333,
+    "age": "27"
+  },
+  {
+    "date": "14/05/2023",
+    "name": "Audrey",
+    "city": "Laloubere",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/occitanie/hautes-pyrenees/tarbes/feminicide-une-femme-retrouvee-morte-pres-de-tarbes-son-ex-conjoint-s-est-pendu-2773258.html \">France 3</a>",
+    "lat": 43.2057612,
+    "lng": 0.0721598,
+    "age": "41"
+  },
+  {
+    "date": "25/05/2023",
+    "name": "Une femme",
+    "city": "Verrieres-le-Buisson",
+    "link": "<a href=\"https://www.sudouest.fr/france/dans-l-essonne-un-homme-electrocute-sa-femme-atteinte-d-alzheimer-15336809.php \">Sud Ouest</a>",
+    "lat": 48.7467819,
+    "lng": 2.2653844,
+    "age": "87"
+  },
+  {
+    "date": "26/05/2023",
+    "name": "Une femme",
+    "city": "Sanary-sur-Mer",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/une-femme-de-95-ans-tuee-par-son-mari-dans-le-var-2776907 \">Francebleu</a>",
+    "lat": 43.1177238,
+    "lng": 5.8008839,
+    "age": "95"
+  },
+  {
+    "date": "25/05/2023",
+    "name": "Cagla",
+    "city": "Dreux",
+    "link": "<a href=\"https://rmc.bfmtv.com/actualites/police-justice/faits-divers/triple-meurtre-a-dreux-l-ex-conjoint-en-fuite-deja-condamne-pour-violences-intrafamiliales_AN-202305250537.html\">bfm</a>",
+    "lat": 48.7358807,
+    "lng": 1.3684254,
+    "age": "36"
+  },
+  {
+    "date": "27/05/2023",
+    "name": "Iris",
+    "city": "Lanester",
+    "link": "<a href=\"https://www.lavoixdunord.fr/1333924/article/2023-05-30/meurtre-d-iris-pres-de-lorient-ce-que-l-sait-ce-mardi-sur-la-mort-de-la-jeune \">La Voix du Nord</a>",
+    "lat": 47.7639726,
+    "lng": -3.3444489,
+    "age": "24"
+  },
+  {
+    "date": "27/05/2023",
+    "name": "Une femme",
+    "city": "Montpellier",
+    "link": "<a href=\"https://www.leparisien.fr/faits-divers/femme-poignardee-a-montpellier-un-suspect-mis-en-examen-et-incarcere-30-05-2023-FP2OYTVORZDAPBRH4NT4GAKW6M.php\">Le parisien</a>",
+    "lat": 43.6112422,
+    "lng": 3.8767337,
+    "age": "72"
+  },
+  {
+    "date": "30/05/2023",
+    "name": "Une femme",
+    "city": "Etinehem-Mericourt",
+    "link": "<a href=\"https://www.francetvinfo.fr/faits-divers/somme-une-femme-d-une-cinquantaine-d-annees-tuee-au-couteau-son-fils-de-17-ans-appelle-la-police-pour-se-denoncer_5858591.html#xtor=CS2-765-%5Bautres%5D-\">Franceinfo</a>",
+    "lat": 49.9241515,
+    "lng": 2.6866525871478872,
+    "age": "56"
+  },
+  {
+    "date": "01/06/2023",
+    "name": "Aline",
+    "city": "Montaigu-Vende",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/une-femme-d-une-quarantaine-d-annees-tuee-a-montaigu-vendee-4090759 \">Francebleu</a>",
+    "age": "39"
+  },
+  {
+    "date": "03/06/2023",
+    "name": "Nathalie",
+    "city": "Saint-Priest",
+    "link": "<a href=\"https://www.lyonmag.com/article/130422/feminicide-puis-suicide-saint-priest-sous-le-choc%20\">Lyonmag</a>",
+    "lat": 44.7177,
+    "lng": 4.54685,
+    "age": "48"
+  },
+  {
+    "date": "07/06/2023",
+    "name": "Sonia",
+    "city": "Dunkerque",
+    "link": "<a href=\"https://www.20minutes.fr/faits_divers/faits-divers-lille/4040358-20230608-enlevement-fillette-dunkerque-enquete-disparition-petite-malek \">20 minutes</a>",
+    "lat": 51.0347708,
+    "lng": 2.3772525,
+    "age": "29"
+  },
+  {
+    "date": "24/05/2023",
+    "name": "Une femme",
+    "city": "Dreux",
+    "link": "<a href=\"https://rmc.bfmtv.com/actualites/police-justice/faits-divers/triple-meurtre-a-dreux-l-ex-conjoint-en-fuite-deja-condamne-pour-violences-intrafamiliales_AN-202305250537.html \">RMC.BFM</a>",
+    "lat": 48.7358807,
+    "lng": 1.3684254,
+    "age": "13"
+  },
+  {
+    "date": "10/06/2023",
+    "name": "Nelly",
+    "city": "Amiens",
+    "link": "<a href=\"https://www.courrier-picard.fr/id422471/article/2023-06-12/feminicide-amiens-il-lui-avait-dit-quil-allait-la-tuer\">Courrier Picard</a>",
+    "lat": 49.8941708,
+    "lng": 2.2956951,
+    "age": "40"
+  },
+  {
+    "date": "27/03/2023",
+    "name": "Karine",
+    "city": "La Malnoue",
+    "link": "<a href=\"https://www.francetvinfo.fr/faits-divers/disparition-de-karine-esquivillon-le-corps-de-la-mere-de-famille-a-ete-retrouve_5891809.html \">Francetvinfo</a>",
+    "lat": 47.2017504,
+    "lng": -1.5023045,
+    "age": "54"
+  },
+  {
+    "date": "15/06/2023",
+    "name": "Sophie",
+    "city": "Saint-Ouen-l'Aumone",
+    "link": "<a href=\"https://actu.fr/ile-de-france/saint-ouen-l-aumone_95572/un-homme-tire-sur-son-epouse-avant-de-tenter-de-se-suicider-a-saint-ouen-l-aumone_59738801.html \">Actu.fr</a>",
+    "lat": 49.0992941,
+    "lng": 2.1513278430408262,
+    "age": "60"
+  },
+  {
+    "date": "17/06/2023",
+    "name": "Julie",
+    "city": "Meulan-en-yvelines",
+    "link": "<a href=\"https://www.leparisien.fr/yvelines-78/yvelines-une-femme-dune-trentaine-dannees-poignardee-a-la-gorge-a-meulan-un-homme-interpelle-17-06-2023-I6KZW25N2FEU5EFI4P3R\">Le Parisien</a>",
+    "lat": 49.0049712,
+    "lng": 1.9100835,
+    "age": "29"
+  },
+  {
+    "date": "09/06/2023",
+    "name": "Alicia",
+    "city": "Lyon",
+    "link": "<a href=\"https://www.bfmtv.com/lyon/jeune-femme-retrouvee-morte-dans-un-squat-a-lyon-le-suspect-va-etre-mis-en-examen_AN-202306200885.html\">BFMTV</a>",
+    "lat": 45.7578137,
+    "lng": 4.8320114,
+    "age": "18"
+  },
+  {
+    "date": "20/06/2023",
+    "name": "Celine",
+    "city": "Reims",
+    "link": "<a href=\"https://www.lunion.fr/id495758/article/2023-06-20/importante-intervention-de-police-en-cours-avenue-depernay-reims \">L'Union</a>",
+    "lat": 49.2577886,
+    "lng": 4.031926,
+    "age": "51"
+  },
+  {
+    "date": "13/06/2023",
+    "name": "Une femme",
+    "city": "Migne-Auxances",
+    "link": "<a href=\"https://www.lanouvellerepublique.fr/vienne/commune/migne-auxances/femme-retrouvee-morte-a-migne-auxances-un-trentenaire-mis-en-examen-pour-meurtre \">La Nouvelle Republique</a>",
+    "lat": 46.6267464,
+    "lng": 0.3113812,
+    "age": "47"
+  },
+  {
+    "date": "26/06/2023",
+    "name": "Brigitte",
+    "city": "Lavaur",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/occitanie/tarn/albi/infirmiere-abattue-dans-le-tarn-on-voit-que-sa-gentillesse-l-a-perdue-son-voisin-a-qui-elle-rendait-service-l-a-tuee-2804006.html \">France3</a>",
+    "lat": 44.6129697,
+    "lng": 1.0230515,
+    "age": "58"
+  },
+  {
+    "date": "21/06/2023",
+    "name": "Une femme",
+    "city": "Grand-Couronne",
+    "link": "<a href=\"https://actu.fr/normandie/grand-couronne_76319/une-femme-retrouvee-morte-a-grand-couronne-son-mari-en-garde-a-vue_59760941.html?fbclid=IwAR3OrABgMANmtbJc6nB-jmN0gC4LZgPE4FprzTTOG7tNSr2sbvM2t4K8sKQ \"> Actu.fr</a>",
+    "lat": 49.3534994,
+    "lng": 1.0043489
+  },
+  {
+    "date": "22/06/2023",
+    "name": "Adelaide",
+    "city": "Angers",
+    "link": "<a href=\"https://www.midilibre.fr/2023/06/24/soupconne-davoir-mortellement-etrangle-sa-femme-lors-dune-permission-de-prison-un-detenu-activement-recherche-a-angers-11299359.php\">Midi Libre</a>",
+    "lat": 47.4739884,
+    "lng": -0.5515588,
+    "age": "40"
+  },
+  {
+    "date": "25/06/2023",
+    "name": "Nadine",
+    "city": "Ouangani",
+    "link": "<a href=\"https://la1ere.francetvinfo.fr/mayotte/l-ex-compagnon-de-nadine-seon-disparue-depuis-dimanche-avoue-l-avoir-tue-1409780.html \">1ere. Francetvinfo</a>",
+    "lat": -12.8498235,
+    "lng": 45.1398664,
+    "age": "33"
+  },
+  {
+    "date": "21/06/2023",
+    "name": "Une femme",
+    "city": "Cergy",
+    "link": "<a href=\"https://www.leparisien.fr/faits-divers/val-doise-samir-40-ans-addict-au-cannabis-avait-prevu-de-tuer-sa-mere-22-06-2023-72QJNMXC6ZEGFMCJUP7MIKQXIE.php \">Le Parisien</a>",
+    "lat": 49.0527528,
+    "lng": 2.0388736,
+    "age": "62"
+  },
+  {
+    "date": "23/06/2023",
+    "name": "Une femme",
+    "city": "Beaucorroy",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/beaucorroy-un-homme-tue-sa-femme-puis-se-suicide-juste-apres-1452478 \">Francebleu</a>",
+    "lat": 50.62296439173546,
+    "lng": 1.8091460338882903,
+    "age": "60"
+  },
+  {
+    "date": "21/07/2023",
+    "name": "Une femme",
+    "city": "Marzan",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/une-femme-ecrasee-sur-une-route-a-marzan-son-compagnon-mis-en-examen-3232451\">Francebleu</a>",
+    "lat": 47.5417803,
+    "lng": -2.324149,
+    "age": "32"
+  },
+  {
+    "date": "21/07/2023",
+    "name": "Une femme",
+    "city": "Franconville",
+    "link": "<a href=\"https://www.tf1info.fr/justice-faits-divers/feminicide-franconville-val-d-oise-une-femme-retrouvee-tuee-a-coups-de-couteau-son-conjoint-hospitalise-2264430.htm\">tf1info</a>",
+    "lat": 48.5000906,
+    "lng": 6.4527267,
+    "age": "45"
+  },
+  {
+    "date": "19/07/2023",
+    "name": "Armelle",
+    "city": "Grigny",
+    "link": "<a href=\"https://www.leparisien.fr/faits-divers/grigny-le-corps-dune-femme-decouvert-dans-un-congelateur-22-07-2023-ECI4O4EZOBFGRPCMUZUQI4AC4M.php\">Le Parisien</a>",
+    "lat": 50.3856239,
+    "lng": 2.065831,
+    "age": "44"
+  },
+  {
+    "date": "24/07/2023",
+    "name": "Une femme",
+    "city": "Haubourdin",
+    "link": "<a href=\"https://www.nordlittoral.fr/180683/article/2023-07-26/feminicide-nord-il-avoue-avoir-tue-sa-compagne-lors-d-un-controle-routier-apres\">Nord Littoral</a>",
+    "lat": 50.6093554,
+    "lng": 2.9864421,
+    "age": "38"
+  },
+  {
+    "date": "30/07/2023",
+    "name": "Djeneba",
+    "city": "Paris",
+    "link": "<a href=\"https://www.20minutes.fr/paris/4047611-20230801-paris-femme-tuee-epoux-10e-arrondissement\">20 minutes</a>",
+    "lat": 48.8588897,
+    "lng": 2.3200410217200766,
+    "age": "38"
+  },
+  {
+    "date": "25/07/2023",
+    "name": "Une femme",
+    "city": "Evry-Courcouronnes",
+    "link": "<a href=\"https://www.ouest-france.fr/ile-de-france/evry-91000/essonne-suspecte-davoir-tue-sa-grand-mere-un-homme-atteint-de-troubles-psychiatriques-interpelle-3d3d0812-310e-11ee-add1-db1d36dcb007\">Ouest France</a>",
+    "lat": 48.629966,
+    "lng": 2.4381816,
+    "age": "85"
+  },
+  {
+    "date": "03/08/2023",
+    "name": "Sylvie",
+    "city": "Prechac-sur-Adour",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/occitanie/gers/auch/feminicide-une-femme-tuee-par-son-ex-conjoint-malgre-plusieurs-signalements-de-menaces-de-mort-2821502.html\">France 3 regions</a>",
+    "lat": 43.60185,
+    "lng": -0.00321,
+    "age": "58"
+  },
+  {
+    "date": "05/08/2023",
+    "name": "Helene",
+    "city": "Peysales Foix",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/trois-morts-sur-le-parking-d-un-supermarche-a-foix-dans-l-ariege-le-parquet-confirme-un-double-assassinat-7259697\">Francebleu</a>",
+    "lat": 42.94894469271867,
+    "lng": 1.6247185450634325,
+    "age": "57"
+  },
+  {
+    "date": "01/07/2023",
+    "name": "Cindy",
+    "city": "Nanterre",
+    "link": "<a href=\"https://www.20minutes.fr/paris/4048328-20230808-nanterre-homme-incarcere-meurtre-femme-debut-juillet%20https://www.leparisien.fr/faits-divers/nanterre-le-jardinier-amoureux-avoue-avoir-etrangle-cindy-durant-la-nuit-07-08-2023-2FEVZLGHVFBIPDVTF7YZLYO7VY.php%20https://www.lefigaro.fr/faits-divers/nanterre-un-homme-ecroue-pour-le-meurtre-d-une-femme-debut-juillet-20230807%20https://actu.fr/ile-de-france/nanterre_92050/une-femme-retrouvee-etranglee-dans-son-appartement-a-nanterre-un-homme-mis-en-examen_59940960.html\">20 minutes</a>",
+    "lat": 48.8924273,
+    "lng": 2.2071267,
+    "age": "38"
+  },
+  {
+    "date": "08/08/2023",
+    "name": "Jacqueline",
+    "city": "Toulouse",
+    "link": "<a href=\"https://www.lalsace.fr/faits-divers-justice/2023/08/07/une-femme-tuee-a-coups-de-couteau-son-compagnon-grievement-blesse-hospitalise\">L'alsace</a>",
+    "lat": 43.6044622,
+    "lng": 1.4442469,
+    "age": "27"
+  },
+  {
+    "date": "13/07/2023",
+    "name": "Agnes",
+    "city": "Diges",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/yonne/une-femme-de-80-ans-retrouvee-morte-chez-elle-dans-l-yonne-son-fils-suspecte-2826875.html\">France3 Region</a>",
+    "lat": 47.7297262,
+    "lng": 3.3977189,
+    "age": "80"
+  },
+  {
+    "date": "13/08/2023",
+    "name": "Marie-Astrid",
+    "city": "Paris",
+    "link": "<a href=\"https://www.lepoint.fr/societe/paris-enquete-apres-le-deces-suspect-d-une-femme-dans-son-appartement-15-08-2023-2531618_23.php#11\">LePoint</a>",
+    "lat": 48.8588897,
+    "lng": 2.3200410217200766,
+    "age": "39"
+  },
+  {
+    "date": "13/08/2023",
+    "name": "Une femme",
+    "city": "Dijon",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/dijon-un-homme-place-en-detention-provisoire-apres-la-mort-de-sa-compagne-3390240\">FranceBleu</a>",
+    "lat": 47.3215806,
+    "lng": 5.0414701,
+    "age": "34"
+  },
+  {
+    "date": "21/08/2023",
+    "name": "Une femme",
+    "city": "Saint-Etienne",
+    "link": "<a href=\"https://www.lefigaro.fr/faits-divers/saint-etienne-un-septuagenaire-mis-en-examen-apres-avoir-tue-sa-compagne-20230824\">Le Figaro</a>",
+    "lat": 45.4401467,
+    "lng": 4.3873058,
+    "age": "63"
+  },
+  {
+    "date": "24/08/2023",
+    "name": "Dana",
+    "city": "Vaux-les-Saint-Claude",
+    "link": "<a href=\"https://actu.fr/bourgogne-franche-comte/vaux-les-saint-claude_39547/incendie-de-vaulx-les-saint-claude-la-piste-du-drame-familial-envisagee-une-enquete-ouverte_60002686.html\">Actu.fr</a> - <a href=\"\"></a>",
+    "lat": 46.3562185,
+    "lng": 5.7378926,
+    "age": "26"
+  },
+  {
+    "date": "26/08/2023",
+    "name": "Une femme",
+    "city": "Sucy-en-Brie",
+    "link": "<a href=\"https://www.leparisien.fr/faits-divers/val-de-marne-un-homme-soupconne-davoir-tue-sa-compagne-place-en-garde-a-vue-28-08-2023-SHPZZ3C36RGHROLXFMITWGWMPI.php\">Le Parisien</a>",
+    "lat": 48.7711323,
+    "lng": 2.5221284,
+    "age": "53"
+  },
+  {
+    "date": "27/08/2023",
+    "name": "Une femme",
+    "city": "Thio",
+    "link": "<a href=\"https://www.laprovence.com/article/france-monde/2411601645842915/feminicide-en-nouvelle-caledonie-une-jeune-femme-tuee-son-conjoint-en-garde-a-vue\">La Provence</a>",
+    "lat": -21.6115836,
+    "lng": 166.2155524,
+    "age": "30"
+  },
+  {
+    "date": "28/08/2023",
+    "name": "Une femme",
+    "city": "Taravao",
+    "link": "<a href=\"https://www.tahiti-infos.com/%E2%80%8BUne-femme-de-39-ans-decede-sous-les-coups-de-son-compagnon-a-Taravao_a219073.html\">Tahiti Infos</a>",
+    "lat": -17.7257067,
+    "lng": -149.313466,
+    "age": "39"
+  },
+  {
+    "date": "29/08/2023",
+    "name": "Une femme",
+    "city": "Chambray-les-Tours",
+    "link": "<a href=\"https://www.lanouvellerepublique.fr/indre-et-loire/commune/chambray-les-tours/chambray-les-tours-une-femme-retrouvee-morte-son-mari-en-fuite\">La Nouvelle Republique</a>",
+    "lat": 47.3390872,
+    "lng": 0.714368,
+    "age": "57"
+  },
+  {
+    "date": "31/08/2023",
+    "name": "Karen",
+    "city": "Croix-de-la-Rochette",
+    "link": "<a href=\"https://www.francetvinfo.fr/societe/feminicides/savoie-l-homme-soupconne-d-avoir-tue-sa-femme-en-pleine-rue-jeudi-a-ete-interpelle_6037214.html#xtor=CS2-765-%5Bautres%5D- \">Francetvinfo</a>",
+    "lat": 45.4853247,
+    "lng": 3.7047223,
+    "age": "42"
+  },
+  {
+    "date": "02/09/2023",
+    "name": "Emmanuelle",
+    "city": "Yport",
+    "link": "<a href=\"https://actu17.fr/faits-divers/fecamp-une-femme-retrouvee-morte-son-mari-qui-nie-les-faits-mis-en-examen-et-ecroue.html \">Actu17</a>",
+    "lat": 49.7378489,
+    "lng": 0.3133709,
+    "age": "52"
+  },
+  {
+    "date": "13/09/2023",
+    "name": "Agnes",
+    "city": "Paris",
+    "link": "<a href=\"https://actu.fr/ile-de-france/paris_75056/paris-une-femme-de-78-ans-tuee-dans-son-appartement-son-fils-interpelle_60076888.html%20@actu.fr_officiel\">Actu.fr</a>",
+    "lat": 48.8588897,
+    "lng": 2.3200410217200766,
+    "age": "78"
+  },
+  {
+    "date": "16/03/2023",
+    "name": "Monique",
+    "city": "Souvigne-sur-Sarthe",
+    "link": "<a href=\"https://www.ouest-france.fr/pays-de-la-loire/le-mans-72000/assassinat-dune-femme-a-souvigne-sur-sarthe-une-connaissance-de-la-victime-mise-en-examen-65351034-52d4-11ee-b5f9-9df59b291d64\">Ouest France</a>",
+    "lat": 47.826956,
+    "lng": -0.3888199,
+    "age": "61"
+  },
+  {
+    "date": "19/09/2023",
+    "name": "Caroline",
+    "city": "La Rochelle",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/une-enquete-est-en-cours-pour-feminicide-suivi-d-un-suicide-dans-le-quartier-du-mail-a-la-rochelle-2842175.html%20\">France3</a>",
+    "lat": 46.159732,
+    "lng": -1.1515951,
+    "age": "38"
+  },
+  {
+    "date": "22/09/2023",
+    "name": "Celine",
+    "city": "Marles les Mines",
+    "link": "<a href=\"https://www.nordlittoral.fr/185850/article/2023-09-23/marles-les-mines-ce-que-l-sait-du-drame-de-la-rue-de-marseillee\">Nordlittoral</a>",
+    "lat": 50.5019493,
+    "lng": 2.5060412,
+    "age": "42"
+  },
+  {
+    "date": "16/09/2023",
+    "name": "Mauricette",
+    "city": "Castelmaurou",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/drame-familial-le-fils-brise-le-silence-et-avoue-avoir-tue-sa-mere-de-90-ans-a-coups-de-couteau-2841662.html \">France3</a>",
+    "lat": 43.6777525,
+    "lng": 1.5325286,
+    "age": "90"
+  },
+  {
+    "date": "26/09/2023",
+    "name": "Une femme",
+    "city": "Toulouse",
+    "link": "<a href=\"https://www.20minutes.fr/faits_divers/faits-divers-toulouse/4054846-20230926-toulouse-appelle-police-explique-vient-tuer-femme \">20minutes</a>",
+    "lat": 43.6044622,
+    "lng": 1.4442469,
+    "age": "51"
+  },
+  {
+    "date": "28/09/2023",
+    "name": "Une femme",
+    "city": "Nice",
+    "link": "<a href=\"https://actu17.fr/faits-divers/pour-abreger-ses-souffrances-un-homme-tue-son-epouse-atteinte-dun-cancer-a-nice.html\">Actu17</a>",
+    "lat": 43.7009358,
+    "lng": 7.2683912,
+    "age": "88"
+  },
+  {
+    "date": "26/09/2023",
+    "name": "Helene",
+    "city": "Primelin",
+    "link": "<a href=\"https://www.ouest-france.fr/societe/faits-divers/femme-tuee-a-primelin-un-homme-mis-en-examen-pour-assassinat-975b1d0c-6151-11ee-a34c-eb9c49c0487f \">OuestFrance</a>",
+    "lat": 48.0254591,
+    "lng": -4.6109181,
+    "age": "55"
+  },
+  {
+    "date": "01/10/2023",
+    "name": "Severine",
+    "city": "Sainte-Maure-de-Peyriac",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/lot-et-garonne/agen/femme-tuee-de-28-coups-de-couteau-une-connaissance-de-la-victime-mise-en-examen-pour-meurtre-2851424.html \">France3</a>",
+    "lat": 44.0135066,
+    "lng": 0.1534485,
+    "age": "47"
+  },
+  {
+    "date": "06/10/2023",
+    "name": "Une femme",
+    "city": "Pierre-Benite",
+    "link": "<a href=\"https://www.bfmtv.com/lyon/pierre-benite-une-femme-tuee-de-12-coups-de-couteau-le-mari-de-la-victime-interpelle_AN-202310060290.html \">BFMtv</a>",
+    "lat": 45.7028321,
+    "lng": 4.8241323,
+    "age": "42"
+  },
+  {
+    "date": "09/10/2023",
+    "name": "Une femme",
+    "city": "Charleville-Mezieres",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/grand-est/ardennes/charleville-mezieres/mort-mysterieuse-d-une-femme-de-50-ans-a-charleville-mezieres-un-homme-de-22-ans-interpelle-2852921.html \">France3Regions</a>",
+    "lat": 49.7735712,
+    "lng": 4.7206939,
+    "age": "50"
+  },
+  {
+    "date": "09/10/2023",
+    "name": "Assunta",
+    "city": "Forbach",
+    "link": "<a href=\"https://www.republicain-lorrain.fr/faits-divers-justice/2023/10/10/une-octogenaire-decouverte-morte-chez-elle-a-forbach-avec-une-plaie-au-cou \">Le Republicain Lorrain</a>",
+    "lat": 49.1862822,
+    "lng": 6.8958562,
+    "age": "85"
+  },
+  {
+    "date": "12/10/2023",
+    "name": "Une femme",
+    "city": "Lons",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/a-lons-une-femme-agressee-a-son-domicile-est-decedee-on-est-choques-3924885 \">Francebleu</a>",
+    "lat": 46.6727037,
+    "lng": 5.5589973,
+    "age": "61"
+  },
+  {
+    "date": "14/10/2023",
+    "name": "Une femme",
+    "city": "Argenteuil",
+    "link": "<a href=\"https://www.europe1.fr/Police-Justice/information-europe-1-argenteuil-une-femme-de-93-ans-meurt-apres-une-suspicion-de-viol-dans-sa-chambre-dhopital-4209278 \">Europe1</a> - <a href=\"\"></a>",
+    "lat": 48.9479069,
+    "lng": 2.2481797,
+    "age": "93"
+  },
+  {
+    "date": "17/10/2023",
+    "name": "Loana",
+    "city": "Sedan",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/grand-est/ardennes/sedan-0/une-fillette-de-10-ans-portee-disparue-dans-les-ardennes-a-ete-retrouvee-morte-une-personne-interpellee-2858825.html \">France3regions</a>",
+    "lat": 49.7033759,
+    "lng": 4.9433409,
+    "age": "10"
+  },
+  {
+    "date": "18/10/2023",
+    "name": "Fabienne",
+    "city": "Lille",
+    "link": "<a href=\"https://www.ladepeche.fr/2023/10/19/une-femme-de-68-ans-egorgee-a-lille-un-mineur-en-garde-a-vue-11530324.php# \">La Depeche du midi</a>",
+    "lat": 50.6365654,
+    "lng": 3.0635282,
+    "age": "68"
+  },
+  {
+    "date": "22/08/2023",
+    "name": "Maeva",
+    "city": "Montpellier",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/plus-jamais-ca-une-marche-blanche-en-hommage-a-maeva-mere-de-famille-tuee-de-plusieurs-coups-de-couteau-2833085.html \">France3regions</a>",
+    "lat": 43.6112422,
+    "lng": 3.8767337,
+    "age": "28"
+  },
+  {
+    "date": "14/10/2023",
+    "name": "Une femme",
+    "city": "Croissy-Beaubourg",
+    "link": "<a href=\"https://www.lefigaro.fr/faits-divers/jeune-femme-tuee-par-balle-en-seine-et-marne-un-homme-de-21-ans-ecroue-20231021 \">Le Figaro</a>",
+    "lat": 48.8278734,
+    "lng": 2.6584023,
+    "age": "24"
+  },
+  {
+    "date": "19/10/2023",
+    "name": "Une femme",
+    "city": "Nanterre",
+    "link": "<a href=\"https://actu.fr/ile-de-france/nanterre_92050/femme-poignardee-a-nanterre-son-frere-mis-en-examen-et-incarcere_60242444.html \">Actu.fr</a>",
+    "lat": 48.8924273,
+    "lng": 2.2071267,
+    "age": "51"
+  },
+  {
+    "date": "28/10/2023",
+    "name": "Jemima",
+    "city": "Grasse",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/feminicide-le-compagnon-de-la-femme-retrouvee-morte-a-grasse-place-en-detention-provisoire-4881043 \">Francebleu</a>",
+    "lat": 43.6589011,
+    "lng": 6.9239103,
+    "age": "29"
+  },
+  {
+    "date": "29/10/2023",
+    "name": "Giuliana",
+    "city": "Paris",
+    "link": "<a href=\"https://rmc.bfmtv.com/actualites/police-justice/faits-divers/feminicide-a-paris-une-femme-et-son-ex-compagnon-retrouves-morts-par-arme-blanche_AD-202310300716.html \">RMC</a>",
+    "lat": 48.8588897,
+    "lng": 2.3200410217200766,
+    "age": "37"
+  },
+  {
+    "date": "31/10/2023",
+    "name": "Une femme",
+    "city": "Oissel",
+    "link": "<a href=\"https://www.ouest-france.fr/faits-divers/feminicide/feminicide-pres-de-rouen-une-femme-retrouvee-morte-son-compagnon-place-en-garde-a-vue-904b082e-77ea-11ee-b7ba-95ef9cb6f5e8 \">Ouest France</a>",
+    "lat": 49.3424375,
+    "lng": 1.0957098,
+    "age": "46"
+  },
+  {
+    "date": "29/10/2023",
+    "name": "Chantal",
+    "city": "Meurchin",
+    "link": "<a href=\"https://actu.fr/hauts-de-france/meurchin_62573/couple-retrouve-mort-a-meurchin-le-mari-avait-laisse-une-lettre-expliquant-son-geste_60291466.html \">Actu.fr</a>",
+    "lat": 50.49539,
+    "lng": 2.8900936,
+    "age": "74"
+  },
+  {
+    "date": "08/11/2023",
+    "name": "Une femme",
+    "city": "Montpellier",
+    "link": "<a href=\"https://www.francetvinfo.fr/societe/feminicides/montpellier-interpellation-d-un-quadragenaire-soupconne-du-meurtre-de-sa-femme-octogenaire_6173328.html\">Franceinfo</a>",
+    "lat": 43.6112422,
+    "lng": 3.8767337,
+    "age": "85"
+  },
+  {
+    "date": "15/10/2023",
+    "name": "Madison",
+    "city": "Orconte (51)",
+    "link": "<a href=\"https://rmc.bfmtv.com/actualites/police-justice/faits-divers/une-femme-de-24-ans-retrouvee-morte-dans-la-marne-l-ex-conjoint-mis-en-examen-pour-meurtre_AD-202311160939.html\">RMC</a>",
+    "lat": 48.66914,
+    "lng": 4.73431,
+    "age": "24"
+  },
+  {
+    "date": "09/11/2023",
+    "name": "Une femme",
+    "city": "Cluses",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/haute-savoie-deux-personnes-agees-retrouvees-mortes-chez-elles-avec-des-blessures-par-balle-a-cluses-7139066\">Francebleu</a>",
+    "lat": 46.0603171,
+    "lng": 6.5804218,
+    "age": "90"
+  },
+  {
+    "date": "09/11/2023",
+    "name": "Irene",
+    "city": "Cuincy",
+    "link": "<a href=\"https://www.lobservateur.fr/cuincy-vive-emotion-apres-le-deces-dun-couple-doctogenaires-ce-jeudi/\">Observateur de Beauvais</a>",
+    "lat": 50.3821492,
+    "lng": 3.0452058,
+    "age": "82"
+  },
+  {
+    "date": "10/11/2023",
+    "name": "Sophie",
+    "city": "Speracedes",
+    "link": "<a href=\"https://www.bfmtv.com/cote-d-azur/alpes-maritimes-les-habitants-de-speracedes-sous-le-choc-apres-la-mort-d-une-femme-poignardee-par-son-fils_AV-202311160979.html\">BFM</a>",
+    "lat": 43.6492014,
+    "lng": 6.8590577,
+    "age": "50"
+  },
+  {
+    "date": "14/11/2023",
+    "name": "Une femme",
+    "city": "Perpignan",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/une-femme-retrouvee-morte-dans-son-appartement-hlm-a-perpignan-son-compagnon-interpelle-2872970.html\">France3Regions</a>",
+    "lat": 42.6985304,
+    "lng": 2.8953121,
+    "age": "38"
+  },
+  {
+    "date": "17/11/2023",
+    "name": "Claire",
+    "city": "Conie-Molitard",
+    "link": "<a href=\"https://www.lechorepublicain.fr/conie-molitard-28200/actualites/une-infirmiere-tuee-a-conie-molitard-son-compagnon-est-le-principal-suspect_14405840/\">Le Chore Republicain</a>",
+    "lat": 48.1157747,
+    "lng": 1.444954,
+    "age": "42"
+  },
+  {
+    "date": "01/09/2023",
+    "name": "Une femme",
+    "city": "Mory",
+    "link": "<a href=\"https://www.ouest-france.fr/hauts-de-france/arras-62000/un-couple-retrouve-mort-dans-le-pas-de-calais-la-piste-dun-homicide-suivi-dun-suicide-envisagee-8bf928f0-4cc5-11ee-b57e-776073219c7f\">Ouest France</a>",
+    "lat": 50.157595,
+    "lng": 2.8556301,
+    "age": "52"
+  },
+  {
+    "date": "15/10/2023",
+    "name": "Une femme",
+    "city": "Caen",
+    "link": "<a href=\"https://actu.fr/normandie/caen_14118/une-femme-retrouvee-morte-chez-elle-a-caen-son-conjoint-mis-en-examen-pour-meurtre_60380951.html\">Actu.fr</a>",
+    "lat": 49.1813403,
+    "lng": -0.3635615,
+    "age": "26"
+  },
+  {
+    "date": "15/11/2023",
+    "name": "Catherine",
+    "city": "Mers-les-Bains",
+    "link": "<a href=\"https://www.courrier-picard.fr/id467504/article/2023-11-17/un-septuagenaire-soupconne-davoir-tue-sa-compagne-mers-les-bains\">Courrier Picard</a>",
+    "lat": 50.0656442,
+    "lng": 1.3892492,
+    "age": "58"
+  },
+  {
+    "date": "24/11/2023",
+    "name": "Melanie",
+    "city": "Avion",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/une-femme-de-36-ans-tuee-par-son-conjoint-dans-leur-domicile-a-avion-122e-feminicide-de-l-annee-2880887.html\">France3 Regions</a>",
+    "lat": 50.4126128,
+    "lng": 2.8343891,
+    "age": "36"
+  },
+  {
+    "date": "26/11/2023",
+    "name": "Betty",
+    "city": "Abancourt",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/un-homme-tue-sa-femme-en-la-fauchant-en-voiture-une-enquete-est-ouverte-pour-feminicide-2879687.html\">France3 Regions</a>",
+    "lat": 49.6977145,
+    "lng": 1.7646826,
+    "age": "45"
+  },
+  {
+    "date": "28/11/2023",
+    "name": "Une femme",
+    "city": "Marseille",
+    "link": "<a href=\"https://www.laprovence.com/article/faits-divers-justice/1047105395944516/marseille-une-femme-de-81-ans-egorgee-a-son-domicile\">La Provence</a>",
+    "lat": 43.2961743,
+    "lng": 5.3699525,
+    "age": "81"
+  },
+  {
+    "date": "03/11/2023",
+    "name": "Melodie",
+    "city": "Marseille",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/le-corps-de-melodie-retrouve-pres-de-marseille-son-amant-avoue-le-meurtre-de-la-mere-de-famille-2097081\">Francebleu</a>",
+    "lat": 43.2961743,
+    "lng": 5.3699525,
+    "age": "34"
+  },
+  {
+    "date": "09/08/2023",
+    "name": "Zohra",
+    "city": "Lyon",
+    "link": "<a href=\"https://www.lyonmag.com/article/131601/femme-poignardee-a-lyon-3e-le-meurtrier-toujours-recherche\">LyonMag</a>",
+    "lat": 45.7578137,
+    "lng": 4.8320114,
+    "age": "38"
+  },
+  {
+    "date": "30/08/2023",
+    "name": "Danielle",
+    "city": "Velanne",
+    "link": "<a href=\"https://laminute.info/2023/12/09/isere-un-homme-maquille-le-meurtre-de-sa-femme-en-cambriolage-puis-part-au-travail/\">La Minute</a> - <a href=\"\"></a>",
+    "lat": 45.49,
+    "lng": 5.64853,
+    "age": "74"
+  },
+  {
+    "date": "30/11/2023",
+    "name": "Une femme",
+    "city": "Pont l'Eveque",
+    "link": "<a href=\"https://www.ouest-france.fr/auvergne-rhone-alpes/pont-eveque-38780/isere-un-homme-de-31-ans-interpelle-pour-meurtre-sur-ascendant-apres-le-deces-de-sa-mere-b5f47eb0-9b2c-11ee-883f-3154893459e6\">Ouest France</a>",
+    "lat": 49.2859538,
+    "lng": 0.1841678,
+    "age": "70"
+  },
+  {
+    "date": "30/11/2023",
+    "name": "Doina",
+    "city": "Amiens",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/hauts-de-france/somme/amiens/meurtre-a-amiens-une-pluie-d-hommages-en-roumanie-apres-la-mort-de-doina-jurca-jeune-diplomee-en-medecine-2883575.html\">France3 Regions</a>",
+    "lat": 49.8941708,
+    "lng": 2.2956951,
+    "age": "31"
+  },
+  {
+    "date": "05/12/2023",
+    "name": "Une femme",
+    "city": "Drancy",
+    "link": "<a href=\"https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/une-mere-decede-a-drancy-poignardee-par-son-fils-suite-a-une-altercation-familiale-2884394.html%20https://www.bfmtv.com/paris/son-fils-le-seul-fautif-le-voisinage-sous-le-choc-apres-la-mort-d-une-mere-de-famille-a-drancy_AN-202312050968.html\">France3 Regions</a>",
+    "lat": 48.9229803,
+    "lng": 2.4455201,
+    "age": "55"
+  },
+  {
+    "date": "25/12/2023",
+    "name": "Beatrice",
+    "city": "Meaux",
+    "link": "<a href=\"https://www.francetvinfo.fr/faits-divers/seine-et-marne-cinq-corps-decouverts-dans-un-appartement-a-meaux_6266574.html\">France TV Info</a>",
+    "lat": 48.9582708,
+    "lng": 2.8773541,
+    "age": "35"
+  },
+  {
+    "date": "25/05/2023",
+    "name": "Alison",
+    "city": "Roppentzwiller",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/couple-tue-a-roppentzwiller-l-ex-mari-policier-mis-en-examen-pour-double-assassinat-3180590\">France bleu</a>",
+    "lat": 47.5394593,
+    "lng": 7.3330506,
+    "age": "49"
+  },
+  {
+    "date": "23/09/2023",
+    "name": "Lina",
+    "city": "Nevers",
+    "link": "<a href=\"https://www.francebleu.fr/infos/faits-divers-justice/disparition-de-lina-le-corps-de-la-jeune-fille-retrouve-plus-d-un-an-apres-sa-disparition-1365441\">France Bleu</a>",
+    "lat": 46.9876601,
+    "lng": 3.1577203,
+    "age": "15"
+  }
+]
