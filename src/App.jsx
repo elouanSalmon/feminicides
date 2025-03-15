@@ -122,6 +122,10 @@ const App = () => {
             <Link href="https://www.noustoutes.org/" color="primary">
               Nous Toutes
             </Link>
+            {' '} - site développé par{' '}
+            <Link href="mailto:elouan.salmon@gmail.com" color="primary">
+              Elou
+            </Link>
           </Typography>
         </Box>
       </Box>
