@@ -1,9 +1,11 @@
 import React from 'react';
 import { useSelector } from 'react-redux';
 import { Box, List, ListItem, ListItemText, Typography, Paper, Divider } from '@mui/material';
+import { useTheme } from '@mui/material/styles';
 import { addNewTabToLinks } from '../utils/linkUtils';
 
 const CasesList = () => {
+  const theme = useTheme();
   const cases = useSelector((state) => state.feminicide.cases);
 
   // Group cases by age
@@ -24,7 +26,7 @@ const CasesList = () => {
   return (
     <Paper elevation={3} sx={{ flex: 1, minHeight: 0, height: '100%', overflow: 'auto', bgcolor: 'background.paper', transition: 'all 0.3s ease-in-out', '&:hover': { boxShadow: 6 } }}>
       <Box sx={{ p: 3 }}>
-        <Typography variant="h6" gutterBottom sx={{ color: 'primary.main', mb: 3, borderBottom: '2px solid', borderColor: 'primary.light', pb: 1 }}>
+        <Typography variant="h6" gutterBottom sx={{ color: 'primary.main', mb: 3, borderBottom: '2px solid', borderColor: 'primary.main', pb: 1 }}>
           Liste des féminicides par âge
         </Typography>
         <List>
@@ -51,15 +53,15 @@ const CasesList = () => {
                       });
                     }
                   }}
-                  sx={{ 
+                  sx={(theme) => ({ 
                     pl: 4, 
                     transition: 'all 0.2s ease-in-out', 
                     '&:hover': { 
-                      backgroundColor: 'rgba(233, 30, 99, 0.08)', 
+                      backgroundColor: theme.palette.primary.main + '80',
                       transform: 'translateX(8px)',
-                      cursor: 'pointer' 
-                    } 
-                  }}>
+                      cursor: 'pointer'
+                    }
+                  })}>
                   <ListItemText
                     primary={caseItem.name}
                     secondary={
