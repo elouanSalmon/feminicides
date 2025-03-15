@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import L from 'leaflet';
 import { MapContainer, TileLayer } from 'react-leaflet';
-import { Box, Container, CssBaseline, Grid, AppBar, Toolbar, Tabs, Tab, Typography, Link } from '@mui/material';
+import { Box, Container, CssBaseline, Grid, AppBar, Toolbar, Tabs, Tab, Typography, Link, IconButton, Divider } from '@mui/material';
 import { useSelector } from 'react-redux';
 import CustomMarker from './components/CustomMarker';
 import CasesList from './components/CasesList';
@@ -10,6 +10,10 @@ import Statistics from './components/Statistics';
 import About from './components/About';
 import 'leaflet/dist/leaflet.css';
 import './App.css';
+import MenuIcon from '@mui/icons-material/Menu';
+import MenuItem from '@mui/material/MenuItem';
+import Menu from '@mui/material/Menu';
+import useMediaQuery from '@mui/material/useMediaQuery';
 
 // Leaflet default icon configuration
 const DefaultIcon = L.icon({
@@ -42,9 +46,19 @@ const theme = createTheme({
 const App = () => {
   const cases = useSelector((state) => state.feminicide.filteredCases);
   const [currentTab, setCurrentTab] = useState(0);
+  const [anchorEl, setAnchorEl] = useState(null);
+  const isMobile = useMediaQuery(theme.breakpoints.down(900));
 
   const handleTabChange = (event, newValue) => {
     setCurrentTab(newValue);
+  };
+
+  const handleMenuOpen = (event) => {
+    setAnchorEl(event.currentTarget);
+  };
+
+  const handleMenuClose = () => {
+    setAnchorEl(null);
   };
 
   return (
@@ -56,28 +70,57 @@ const App = () => {
             <Typography variant="h6" component="div" sx={{ fontWeight: 'bold', letterSpacing: 1 }}>
               Feminicides France
             </Typography>
-            <Tabs
-              value={currentTab}
-              onChange={handleTabChange}
-              textColor="inherit"
-              indicatorColor="secondary"
-            >
-              <Tab label="Carte" />
-              <Tab label="Statistiques" />
-              <Tab label="À Propos" />
-            </Tabs>
+            
+            {isMobile ? (
+              <div>
+                <IconButton
+                  edge="end"
+                  color="inherit"
+                  aria-label="menu"
+                  onClick={handleMenuOpen}
+                >
+                  <MenuIcon />
+                </IconButton>
+                <Menu
+                  anchorEl={anchorEl}
+                  open={Boolean(anchorEl)}
+                  onClose={handleMenuClose}
+                  MenuListProps={{
+                    'aria-labelledby': 'basic-button',
+                  }}
+                >
+                  <MenuItem onClick={() => { setCurrentTab(0); handleMenuClose(); }}>Carte</MenuItem>
+                  <MenuItem onClick={() => { setCurrentTab(1); handleMenuClose(); }}>Statistiques</MenuItem>
+                  <MenuItem onClick={() => { setCurrentTab(2); handleMenuClose(); }}>À Propos</MenuItem>
+                  <Divider sx={{ my: 1 }} />
+                  <MenuItem onClick={handleMenuClose} component="a" href="https://www.noustoutes.org/">Nous Toutes</MenuItem>
+                  <MenuItem onClick={handleMenuClose} component="a" href="mailto:elouan.salmon@gmail.com">Contact</MenuItem>
+                </Menu>
+              </div>
+            ) : (
+              <Tabs
+                value={currentTab}
+                onChange={handleTabChange}
+                textColor="inherit"
+                indicatorColor="secondary"
+              >
+                <Tab label="Carte" />
+                <Tab label="Statistiques" />
+                <Tab label="À Propos" />
+              </Tabs>
+            )}
           </Toolbar>
         </AppBar>
 
         {/* Carte */}
         {currentTab === 0 && (
           <Grid container sx={{ flexGrow: 1, height: '100%' }}>
-            <Grid item xs={12} md={4} sx={{ overflow: 'auto', bgcolor: 'background.paper' }}>
+            <Grid item xs={12} md={4} sx={{ overflow: 'auto', bgcolor: 'background.paper', order: { xs: 2, md: 0 } }}>
               <Container sx={{ py: 2 }}>
                 <CasesList cases={cases} />
               </Container>
             </Grid>
-            <Grid item xs={12} md={8} sx={{ height: '100%' }}>
+            <Grid item xs={12} md={8} sx={{ height: '100%', order: { xs: 1, md: 0 } }}>
               <MapContainer
                 center={[46.603354, 1.888334]}
                 zoom={6}
@@ -116,18 +159,20 @@ const App = () => {
         )}
 
         {/* Footer */}
-        <Box component="footer" sx={{ p: 2, bgcolor: 'background.default', textAlign: 'center' }}>
-          <Typography variant="body2" color="textSecondary">
-            Données fournies par{' '}
-            <Link href="https://www.noustoutes.org/" color="primary">
-              Nous Toutes
-            </Link>
-            {' '} - site développé par{' '}
-            <Link href="mailto:elouan.salmon@gmail.com" color="primary">
-              Elou
-            </Link>
-          </Typography>
-        </Box>
+        {!isMobile && (
+          <Box component="footer" sx={{ p: 2, bgcolor: 'background.default', textAlign: 'center' }}>
+            <Typography variant="body2" color="textSecondary">
+              Données fournies par{' '}
+              <Link href="https://www.noustoutes.org/" color="primary">
+                Nous Toutes
+              </Link>
+              {' '} - site développé par{' '}
+              <Link href="mailto:elouan.salmon@gmail.com" color="primary">
+                Elou
+              </Link>
+            </Typography>
+          </Box>
+        )}
       </Box>
     </ThemeProvider>
   );
