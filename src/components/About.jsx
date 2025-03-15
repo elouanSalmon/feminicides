@@ -20,8 +20,8 @@ const About = () => {
             l'ensemble du territoire. Notre objectif est de donner une visibilité à ces tragédies 
             pour contribuer à la prévention de la violence contre les femmes. 
             Pour en savoir plus, rendez-vous sur{' '}
-            <Link href="https://www.noustous.org" target="_blank" rel="noopener noreferrer">
-              nous tous
+            <Link href="https://www.noustoutes.org" target="_blank" rel="noopener noreferrer">
+              noustoutes.org
             </Link>.
           </Typography>
         </Box>
